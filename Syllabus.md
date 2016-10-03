@@ -3,10 +3,12 @@
 * Fridays 9am - 11am | Studio @ Butler
 * Office hours: Mondays 10am - 12pm (previous email required)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: **??**
+* Teaching Assistant: Buck Fivel (brw2103)
 
 ## Course Overview
-This course provides an introduction to data visualization theory and tools...
+This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the Center for Spatial Research to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
+
+The course will be centered around a semester long data visualization group project, through which the students will learn the basics of data visualization, data analysis, data collection, programming and versioning control. However, even though the course will teach specific programming languages and tools, the main conceptual thread of the class will be centered around how work with data, both in the humanities and in architecture and urbanism. Students will define their final projects around their own interests, and will bring their own datasets into their final projects.
 
 ## General Topics
 * Basic data visualization history and concepts
@@ -30,16 +32,16 @@ Course files, tutorials and presentations will be located on Courseworks, on the
 The readings for the class will be duly uploaded to Courseworks. Similarly, students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions
 to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
 
-[Link to the blog](http://mapping2016fall.tumblr.com/). **??**
+[Link to the blog](http://mapping2016fall.tumblr.com/). **----Needs new Link----**
 
-[Link to number of posts](https://docs.google.com/spreadsheets/d/106JrEOQ64bOK1pqhBBwC-_z5eOU_4yphc7Fz0otWysI/edit?usp=sharing). **??**
+[Link to number of posts](https://docs.google.com/spreadsheets/d/106JrEOQ64bOK1pqhBBwC-_z5eOU_4yphc7Fz0otWysI/edit?usp=sharing). **----Needs new Link----**
 
 ## Brainstorming
 * Creating a basic website (local)
   * Create HTML and CSS and open it with Chrome (not live)
   * Running a local server
   * Brief terminal commands
-  * How does this work in Windows **??**
+  * How does this work in Windows **----??----**
 * Taking that website live (Github):
   * Versioning concept
   * Branches
@@ -268,15 +270,6 @@ to the blog. Students will be required to upload some of their own work as well 
 ## Possible readings:
 * Tufte on the Challenger
 * [Critique to Tufte on the Challenger](http://www.onlineethics.org/Topics/ProfPractice/Exemplars/BehavingWell/RB-intro/RepMisrep.aspx)
-
-## Data Visualization Lev Manovich (presentation)
-* [Manovich](manovich.net) - present who you are
-* [Lab](softwarestudies.com)
-* Study culture like scientist study the world, because there's so much cultural data out there (social media, etc)
-* Two visualizations, all geotaged images for NYC and Tokyo (spring 2012), 3 days in NY and 2 days in Tokyo -> the simple power of visualizations... routines
-* All front pages of Hawaiian Star newspaper
-* All Time covers
-* inequaligram.net (with Agustin?)
 
 -----------------------------------------------------------------------------
 
