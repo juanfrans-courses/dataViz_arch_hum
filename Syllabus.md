@@ -415,7 +415,5 @@ May 5
 * [Sensory Maps](http://sensorymaps.com/)
 * [Library of Congress - Maps](https://www.loc.gov/maps/collections/)
 * [The National Geologic Map Database](http://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
-
-More Websites
 * [The Data Visualisation Catalogue](www.datavizcatalogue.com)
 
