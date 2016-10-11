@@ -8,7 +8,7 @@
 ## Course Overview
 This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the Center for Spatial Research to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
 
-The course will be centered around a semester long data visualization group project, through which the students will learn the basics of data visualization, data analysis, data collection, programming and versioning control. However, even though the course will teach specific programming languages and tools, the main conceptual thread of the class will be centered around how work with data, both in the humanities and in architecture and urbanism. Students will define their final projects around their own interests, and will bring their own datasets into their final projects.
+The course will be centered around a semester long data visualization group project, through which the students will learn the basics of data visualization, data analysis, data collection, programming and versioning control. However, even though the course will teach specific visualization tools, the main conceptual thread will be centered around how to work with data, both in the humanities and in architecture and urbanism. Students will define their final projects around their own interests, and will bring their own datasets into their final projects.
 
 ## General Topics
 * Basic data visualization history and concepts
@@ -244,6 +244,11 @@ to the blog. Students will be required to upload some of their own work as well 
 * [Data is Plural](https://tinyletter.com/data-is-plural/archive?page=1&recs=10&sort=desc&q=)
 * [Visualising Data - Data Sources](http://www.visualisingdata.com/references/)
 
+## More Dataset suggestions
+* [Association of Religion Data Archives](http://www.thearda.com/)
+* [National Archive of Data on Arts and Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
+
+
 ## Other articles (not sure how good they are yet):
 * [The Dublin Dashboard: Design and Development of a Real-Time Analytical Urban Dashboard](http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W1/19/2016/isprs-annals-IV-4-W1-19-2016.pdf), Gavin McArdle, Robin Kitchin
 * [The Surprising History of the Infographic](http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist)
@@ -253,6 +258,13 @@ to the blog. Students will be required to upload some of their own work as well 
   * danah boyd and Kate Crawford, “Critical Questions for Big Data,” Information, Communication and Society 15:5 (2012): 662-79.
   * Rob Kitchin and Gavin McArdle, “What Makes Big Data, Big Data? Exploring the Ontological Characteristics of 26 Datasets,” Big Data & Society 3:1 (February 2016): 1-10.
   * The Economist: [The data deluge](http://www.economist.com/node/15579717) and [Data, data everywhere](http://www.economist.com/node/15557443)
+  
+## Suggestions:
+
+* [Seven ways humanists are using computers to understand texts](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
+* [Text visualization browser](http://textvis.lnu.se/) *not so much a reading as a collection of examples from 1976-present on ways to visualize text*
+* [Miriam Posner's How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that/) *explains at a very high level what tools you would need to know to make different types of projects*
+
 
 ## Outside of the scope of the course (extra)
 * React:
@@ -362,6 +374,7 @@ May 5
 * Tufte, Edward, The Visual Display of Quantitative Information
 * Tufte, Edward, Envisioning Information
 * Tactical Technology Creative, Visualizing Information for Advocacy
+* Cairo, Alberto, The Functional Art
 
 ### Blogs & Websites
 * [Visualizing Data](http://www.visualisingdata.com/)
@@ -393,3 +406,7 @@ May 5
 * [Sensory Maps](http://sensorymaps.com/)
 * [Library of Congress - Maps](https://www.loc.gov/maps/collections/)
 * [The National Geologic Map Database](http://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+
+More Websites
+* [The Data Visualisation Catalogue](www.datavizcatalogue.com)
+
