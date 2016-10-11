@@ -148,6 +148,13 @@ to the blog. Students will be required to upload some of their own work as well 
   * [Leaflet](http://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps.
   * [Visdown](http://visdown.amitkaps.com/) - visualization with markdown
   * [g9.js](http://omrelli.ug/g9/) - automatic interactive graphs
+  * [Bamboo DiRT](http://dirtdirectory.org/) *Nearly comprehensive list of tools to use for DH projects*
+* Text Analysis Tools
+  * [AntConc](http://www.laurenceanthony.net/software/antconc/) *Does basic text analysis NLTK-style. Great for non-Pythonic approach to distant reading a text. Best used with The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc).*
+  * [MALLET](http://mallet.cs.umass.edu/) *Topic modelling tool. Best used with The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/topic-modeling-and-mallet) .*
+* Data Cleaning Tools
+  * [Google Open Refine](http://openrefine.org/). The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/cleaning-data-with-openrefine) is very helpful here.
+  
 
 ## References
 * Codecademy (multiple courses, HTML + CSS, Python, JavaScript, D3)
@@ -243,10 +250,12 @@ to the blog. Students will be required to upload some of their own work as well 
 * [Dreamtolearn - 1001 Datasets and Data repositories (Lists of lists of lists)](https://dreamtolearn.com/ryan/1001_datasets)
 * [Data is Plural](https://tinyletter.com/data-is-plural/archive?page=1&recs=10&sort=desc&q=)
 * [Visualising Data - Data Sources](http://www.visualisingdata.com/references/)
-
-## More Dataset suggestions
+* [Project Gutenberg](http://www.gutenberg.org/)
 * [Association of Religion Data Archives](http://www.thearda.com/)
 * [National Archive of Data on Arts and Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
+* [NYPL Labs Menus](http://menus.nypl.org/data)
+* [NYPL Digital Collections](http://digitalcollections.nypl.org/)
+
 
 
 ## Other articles (not sure how good they are yet):
@@ -259,7 +268,7 @@ to the blog. Students will be required to upload some of their own work as well 
   * Rob Kitchin and Gavin McArdle, “What Makes Big Data, Big Data? Exploring the Ontological Characteristics of 26 Datasets,” Big Data & Society 3:1 (February 2016): 1-10.
   * The Economist: [The data deluge](http://www.economist.com/node/15579717) and [Data, data everywhere](http://www.economist.com/node/15557443)
   
-## Suggestions:
+## Suggestions for other articles:
 
 * [Seven ways humanists are using computers to understand texts](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
 * [Text visualization browser](http://textvis.lnu.se/) *not so much a reading as a collection of examples from 1976-present on ways to visualize text*
