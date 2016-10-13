@@ -44,7 +44,7 @@
 
 ### What is HTML and CSS
 * HTML:
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
