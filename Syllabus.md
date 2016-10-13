@@ -76,7 +76,7 @@ February 17
 * In class presentations
 * **Assignment 2 Due**: Detailed presentation of data visualization project
 
-### Week 6: Contemporary data visualization
+### Week 6: Contemporary data visualization & advanced programming
 February 24
 * Contemporary concepts and examples of data visualization
 * Basic data analysis concepts and techniques
@@ -89,11 +89,9 @@ March 3
 * Working with text data: presentation by Michelle McSweeney
 * **Assignment 3 Due**: Visualization of one dataset
 
-### Week 8: Advanced programming exercises
+### Week 8: Guest lecture - Giorgia Lupi
 March 10
-* Advanced programming exercises:
-  * Functions
-  * Objects
+* Guest lecture: Giorgia Lupi from Accurat
 
 ### Week 9: Spring Break (no class)
 March 17
