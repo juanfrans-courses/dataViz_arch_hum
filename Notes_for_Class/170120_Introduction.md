@@ -44,7 +44,7 @@
 * Developer tools:
   * Inspector
 
-### What is HTML and CSS
+### What is HTML (Hyper Text Markup Language)
 * Basic HTML structure:
 ```html
 <!DOCTYPE html>
@@ -88,3 +88,41 @@
     * `<img src="locationOfImageFile.extension">`: contains an image element.
     * `<footer></footer>`: contains the footer information for the page.
 * There are many more elements. For a full list of elements see the [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) guide by the Mozilla Developer Network.
+
+### What is CSS (Cascading Style Sheets)
+* Usually you link the .css file in the `<head></head>` of the html document through `<link rel="stylesheet" type="text/css" href="style.css">`. However, you can also use css in the main .html file.
+* The basic idea behind CSS is that you style specific elements of the html document (ie. `<p></p>`, `<h1></h1>`, etc, etc). By style we mean, color, font, font size, background color, letter spacing, etc, etc.
+* In CSS you can also differentiate between elements using the `class` and `id` tags.
+* For example, if we want to style all `<p></p>` elements we would add the following to our .css file:
+```css
+p{
+    color: #000000;
+    font-family: "futura-pt", helvetica, sans-serif;
+    font-size: 1.35em;
+    font-weight: 300;
+    max-width: 900px;
+}
+```
+* But if we want to style just one type of `<p></p>` element, first we would add a `class` or an `id` tag to the element and then style it like this:
+  * HTML:
+```html
+<p>This is the generic text element with the default styling.</p>
+<p class="boldText">This is one element we will style with BOLD text.</p>
+<p id="italicsText">This is the other element we will style with ITALICS text.</p>
+```
+  * CSS:
+```css
+p{
+    color: #000000;
+    font-family: "futura-pt", helvetica, sans-serif;
+    font-size: 1.35em;
+    font-weight: 300;
+    max-width: 900px;
+}
+p.boldText {
+    font-weight: bold;
+}
+p#italicsText {
+    font-style: italic;
+}
+```
