@@ -141,3 +141,6 @@
 * [Information is Beautiful Awards](http://www.informationisbeautifulawards.com/)
 * [Principles for making things for the web, by Noah Veltman](https://github.com/veltman/principles)
 * [Content-out Layout](http://alistapart.com/article/content-out-layout)
+* * [Seven ways humanists are using computers to understand texts](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
+* [Text visualization browser](http://textvis.lnu.se/) *not so much a reading as a collection of examples from 1976-present on ways to visualize text*
+* [Miriam Posner's How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that/) *explains at a very high level what tools you would need to know to make different types of projects*

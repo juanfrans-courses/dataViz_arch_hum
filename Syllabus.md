@@ -8,7 +8,7 @@
 ## Course Overview
 This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the [Center for Spatial Research](http://c4sr.columbia.edu/) to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
 
-The course will be centered around a semester long data visualization group project, through which the students will learn the basics of information visualization, data analysis, data collection, programming and versioning control. However, even though the course will teach specific programming languages and tools, the main conceptual thread of the class will be centered around how work with data, both in the humanities and in architecture and urbanism. Students will define their final projects around their own interests, and will bring their own datasets into their final projects.
+The course will be centered around a semester long data visualization group project, through which the students will learn the basics of data visualization, data analysis, data collection, programming and versioning control. However, even though the course will teach specific visualization tools, the main conceptual thread will be centered around how to work with data, both in the humanities and in architecture and urbanism. Students will define their final projects around their own interests, and will bring their own datasets into their final projects.
 
 ## General Topics
 * Data visualization history and concepts
@@ -226,6 +226,12 @@ May 5
   * [Leaflet](http://leafletjs.com/) - an open-source JavaScript library for mobile-friendly interactive maps.
   * [Visdown](http://visdown.amitkaps.com/) - visualization with markdown
   * [g9.js](http://omrelli.ug/g9/) - automatic interactive graphs
+  * [Bamboo DiRT](http://dirtdirectory.org/) *Nearly comprehensive list of tools to use for DH projects*
+* Text Analysis Tools
+  * [AntConc](http://www.laurenceanthony.net/software/antconc/) *Does basic text analysis NLTK-style. Great for non-Pythonic approach to distant reading a text. Best used with The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/corpus-analysis-with-antconc).*
+  * [MALLET](http://mallet.cs.umass.edu/) *Topic modelling tool. Best used with The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/topic-modeling-and-mallet) .*
+* Data Cleaning Tools
+  * [Google Open Refine](http://openrefine.org/). The Programming Historian's [Tutorial](http://programminghistorian.org/lessons/cleaning-data-with-openrefine) is very helpful here.
 
 ### Tutorials & Resources
 * Codecademy (multiple courses, HTML + CSS, Python, JavaScript, D3)
@@ -266,3 +272,9 @@ May 5
 * [Dreamtolearn - 1001 Datasets and Data repositories (Lists of lists of lists)](https://dreamtolearn.com/ryan/1001_datasets)
 * [Data is Plural](https://tinyletter.com/data-is-plural/archive?page=1&recs=10&sort=desc&q=)
 * [Visualising Data - Data Sources](http://www.visualisingdata.com/references/)
+* [Project Gutenberg](http://www.gutenberg.org/)
+* [Association of Religion Data Archives](http://www.thearda.com/)
+* [National Archive of Data on Arts and Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
+* [NYPL Labs Menus](http://menus.nypl.org/data)
+* [NYPL Digital Collections](http://digitalcollections.nypl.org/)
+* [The Data Visualisation Catalogue](www.datavizcatalogue.com)
