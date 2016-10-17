@@ -141,7 +141,12 @@
 * [Information is Beautiful Awards](http://www.informationisbeautifulawards.com/)
 * [Principles for making things for the web, by Noah Veltman](https://github.com/veltman/principles)
 * [Content-out Layout](http://alistapart.com/article/content-out-layout)
-* * [Seven ways humanists are using computers to understand texts](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
+* [Seven ways humanists are using computers to understand texts](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text)
 * [Text visualization browser](http://textvis.lnu.se/) *not so much a reading as a collection of examples from 1976-present on ways to visualize text*
 * [Miriam Posner's How Did They Make That](http://miriamposner.com/blog/how-did-they-make-that/) *explains at a very high level what tools you would need to know to make different types of projects*
 * [A Brief History of Data Visualization](http://www.datavis.ca/papers/hbook.pdf)
+* [Mining the Social Web, by Matthew Russell](https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition)
+* [Interaction Design: Beyond Human-Computer Interaction, by Jenny Preece](https://www.amazon.com/dp/1119020751/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687562&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0470665769&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=C44T457YPEJD55GQ042M)
+* [Data Visualization with D3.js Cookbook, by Nick Qi Zhu](https://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X)
+* [Information Visualization: Perception for Design, by Colin Ware](https://www.amazon.com/Information-Visualization-Third-Interactive-Technologies/dp/0123814642)
+* [An Empire Built on Sand: Reexamining What We Think We Know About Visualization](http://kosara.net/papers/2016/Kosara-BELIV-2016.pdf)

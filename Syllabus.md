@@ -50,6 +50,7 @@ January 20
 
 ### Week 2: Basic web concepts and Github
 January 27
+* Discussion: what is data in your field
 * Versioning control basics
 * Setup a github repository
 * Setup a github projects page
