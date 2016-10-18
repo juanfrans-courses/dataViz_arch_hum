@@ -130,7 +130,7 @@ p#italicsText {
 ### Terminal (Command Line)
 The 'Terminal' or 'Command Line' is an interface where you will be able to navigate to specific parts of your computer and execute commands (see a more detailed explanation in [What is the difference between Terminal, Console, Shell, and Command Line?](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). For our purposes, the 'Terminal' is where we will run a local server from and where we will submit our Github pull and push requests from. In other words, it will be the main interface to help us set up everything.
 
-Here are some of the main commands in the Terminal:
+#### Here are some of the main commands in the Terminal:
 * `cd <path/to/folder>` - Change directory. Used to move to another folder in your computer.
 * `cd ~` - Change directory to home folder.
 * `cd -` - Change directory to previous directory.
@@ -149,7 +149,7 @@ Here are some of the main commands in the Terminal:
 * `rm <fileName>`: Remove file. **Careful, this command permanently deletes the specified file**. If you want to remove a directory and its contents do `rm -ri <folderName>`. This will remove recursively and ask for a confirmation for every file (`-i`).
 * `.` - the dot means here (in this location). Commonly used when you want to move or copy a file from another directory to your current one.
 
-Here are some navigation shortcuts in the Terminal:
+#### Here are some navigation shortcuts in the Terminal:
 * 'ctrl+A' - moves to start of line.
 * 'ctrl+E' - moves to end of line.
 * 'ctrl+B' - moves back one character.
