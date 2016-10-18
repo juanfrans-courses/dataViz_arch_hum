@@ -130,7 +130,7 @@ p#italicsText {
 ### Terminal (Command Line)
 The 'Terminal' or 'Command Line' is an interface where you will be able to navigate to specific parts of your computer and execute commands (see a more detailed explanation in [What is the difference between Terminal, Console, Shell, and Command Line?](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). For our purposes, the 'Terminal' is where we will run a local server from and where we will submit our Github pull and push requests from. In other words, it will be the main interface to help us set up everything.
 
-#### Here are some of the main commands in the Terminal:
+Here are some of the main commands in the Terminal:
 * `cd <path/to/folder>` - Change directory. Used to move to another folder in your computer.
 * `cd ~` - Change directory to home folder.
 * `cd -` - Change directory to previous directory.
@@ -149,7 +149,7 @@ The 'Terminal' or 'Command Line' is an interface where you will be able to navig
 * `rm <fileName>`: Remove file. **Careful, this command permanently deletes the specified file**. If you want to remove a directory and its contents do `rm -ri <folderName>`. This will remove recursively and ask for a confirmation for every file (`-i`).
 * `.` - the dot means here (in this location). Commonly used when you want to move or copy a file from another directory to your current one.
 
-#### Here are some navigation shortcuts in the Terminal:
+Here are some navigation shortcuts in the Terminal:
 * 'ctrl+A' - moves to start of line.
 * 'ctrl+E' - moves to end of line.
 * 'ctrl+B' - moves back one character.
@@ -158,7 +158,10 @@ The 'Terminal' or 'Command Line' is an interface where you will be able to navig
 * 'ctrl+K' - deletes from cursor to end of line.
 * 'ctrl+W' - deletes from cursor to beginning of current word.
 
-
+### Create a local server
+* To create a local server navigate to the desired location (where you have your main .html file) in your terminal and do the following command: `python -m SimpleHTTPServer`. Then open your browser and got to `http://localhost:8000/`.
+* 8000 is the default location, but if you want to run the server in a different port you can do `python -m SimpleHTTPServer 4000` which will run the local server in the 4000 port. In your browser you should then go to `http://localhost:4000/`.
+* To stop the local server you should go to your terminal window and press 'ctrl+c' which stops the current command running.
 
 
 
