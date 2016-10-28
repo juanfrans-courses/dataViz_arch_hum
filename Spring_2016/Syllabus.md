@@ -15,7 +15,7 @@ The course will be centered around a semester long data visualization group proj
 * Working with data: collection and analysis
 * Basic programming skills and web languages (HTML, CSS, Javascript)
 * Interactivity and online data visualization
-* Collaborative work and version control (Github)
+* Collaborative work and version control (GitHub)
 * Working with text data
 * APIs and Web-scraping
 
@@ -48,12 +48,12 @@ January 20
 * Introduction to HTML and CSS
 * Setup of local server
 
-### Week 2: Basic web concepts and Github
+### Week 2: Basic web concepts and GitHub
 January 27
 * Discussion: what is data in your field
 * Version control basics
-* Setup a github repository
-* Setup a github projects page
+* Setup a GitHub repository
+* Setup a GitHub projects page
 
 ### Week 3: Data visualization matrix and basic programming concepts
 February 3
@@ -124,7 +124,7 @@ April 28
 May 5
 
 ### Assignment Schedule (Due Dates)
-* **January 27:** Basic website hosted on Github
+* **January 27:** Basic website hosted on GitHub
 * **February 3:** Data and visualization matrix
 * **February 17:** Data visualization project presentation
 * **March 3:** One dataset visualization
@@ -235,11 +235,11 @@ May 5
 ### Tutorials & Resources
 * Codecademy (multiple courses, HTML + CSS, Python, JavaScript, D3)
 * [Text Visualization Browser](http://textvis.lnu.se/)
-* Github:
+* GitHub:
   * [Introduction to Git](https://sklise.com/2012/09/22/introduction-to-git/)
   * [Git workflow for beginners](https://sklise.com/2012/10/07/git-workflow-beginner/)
   * [Try Git](https://try.github.io/levels/1/challenges/1)
-  * [A guide to using Github pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+  * [A guide to using GitHub pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 * JavaScript:
   * [How to learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [JavaScript: the right way](http://jstherightway.org/)
