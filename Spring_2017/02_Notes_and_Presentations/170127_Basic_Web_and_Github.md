@@ -97,9 +97,19 @@
     * `git commit -m "commit message"`.
     * `git push`.
 
+### Git branches and "pg-pages"
+* A branch is a copy of the main repository where you can experiment without breaking your "master" copy. They are very useful when you have a stable copy of a project (usually on the "master" branch) but you still want to work on other features or improvements without breaking this working copy. In this case you create a branch, change it and test it and once it is ready, merge it with the "master":
+  * To create a branch do `git branch <branchName>`.
+  * To switch to that new branch do `git checkout <branchName>`.
+  * To list the branches in your repository do `git branch`. The branch with a * next to it will be the one you are currently working on.
+  * When you are done with your branch and merge it back to the "master", switch to the master and do `git merge <branchName>`.
+  * Finally, to delete a branch do `git branch -d <branchName>`.
+* A **"gh-pages"** is a specific branch that GitHub will use to create a website. For your projects we will be using the "gh-pages":
+  * Once you start your project repository you should create a "gh-pages" branch and switch to it so that you are working on that branch. This way, whatever you change on your repository will be displayed as a website on GitHub.
+  * The URL for that page will be: https://<githubUserName>.github.io/<repositoryName>/
 
-
-
+### Git cheat sheet
+* This [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) is a great resource.
 
 ### Troubleshooting Git
 * `git reset HEAD fileName`: undoes a file added to the local repository.
@@ -109,3 +119,4 @@
 * [Git Large File Storage](https://git-lfs.github.com/): necessary for working with files that are more than 100MB. Usually, when working with large video, audio or database files you will hit that limit. Use this system to track those files and use them in your repositories.
 * GitHub actually supports (understands) 3D files like .stl and .obj and can visualize those files on its website and show changes.
 * GitHub also supports .geoJson files and will visualize them on an interactive map on their website.
+* If you want git to ignore one or multiple files in your folder, you need to create a file called .gitignore and write in it the names of the files you want to ignore. For example: "temp.txt" or "*.csv".
