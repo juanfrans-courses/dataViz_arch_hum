@@ -106,7 +106,7 @@
   * Finally, to delete a branch do `git branch -d <branchName>`.
 * A **"gh-pages"** is a specific branch that GitHub will use to create a website. For your projects we will be using the "gh-pages":
   * Once you start your project repository you should create a "gh-pages" branch and switch to it so that you are working on that branch. This way, whatever you change on your repository will be displayed as a website on GitHub.
-  * The URL for that page will be: "https://githubUserName.github.io/repositoryName/"
+  * The URL for that page will be: https://githubUserName.github.io/repositoryName/
 
 ### Git cheat sheet
 * This [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) is a great resource.
