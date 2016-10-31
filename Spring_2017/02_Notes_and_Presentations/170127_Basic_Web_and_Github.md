@@ -70,7 +70,27 @@
   * Here is the GitHub page on how to [create a new repository](https://help.github.com/articles/creating-a-new-repository/). You usually do this after you've created a folder in your computer.
   * Next, [here's the tutorial on how to link the two](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/).
   * The basic commands for this one are:
-    * 
+    * `cd path/to/project/folder`: in your Terminal window navigate to your project folder.
+    * `git init`: in your project folder start git.
+    * `git add .`: add the existing files to your local git; (the dot(.) at the end of the command means "this", so you are basically saying, "add all that is here to git"). To undo an `add` use the following command: `git reset HEAD fileName`.
+    * `git commit -m "First commit"`: this command commits the files that you just added and makes them ready to be synchronized with your remote repository. To undo a `commit` use the following command: `git reset --soft HEAD~1`.
+    * Now navigate to the Quick Setup page of your repository on GitHub (the one you created just before this) and copy the repository URL.
+    * `git remote add origin repositoryURL`: this links your local repository with your remote one on GitHub. This step only needs to be done the first time you setup a new repository.
+    * `git remote -v`: this verifies your repository's remote URL. This step only needs to be done the first time you setup a new repository.
+    * `git push -u origin master`: this final step "pushes" your files and their changes to your remote repository.
+* Commit and push changes:
+  * Once you've setup your repository, every time you make changes to your files and you want to synchronize them with your remote repository you should use the following commands:
+    * `git add -A`: this will add all your changes (files changed, new files and deleted files). For a useful explanation of the differences between `git add .`, `git add -u` and `git add -A` see this post on [stackoverflow](http://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add/572660#572660)
+    * `git commit -m "Commit message"`: this commits your changes and adds a message explaining your changes.
+    * `git push`: this is the final command, which pushes your changes to your remote repository.
+* 
+
+
+### Troubleshooting Git
+* `git reset HEAD fileName`: undoes a file added to the local repository.
+* `git reset --soft HEAD~1`: undoes a commit to the local repository.
+
+
 
 ### Other
 * [Git Large File Storage](https://git-lfs.github.com/): necessary for working with files that are more than 100MB. Usually, when working with large video, audio or database files you will hit that limit. Use this system to track those files and use them in your repositories.
