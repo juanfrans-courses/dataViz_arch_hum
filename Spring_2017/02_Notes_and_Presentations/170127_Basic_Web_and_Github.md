@@ -97,7 +97,7 @@
     * `git commit -m "commit message"`.
     * `git push`.
 
-### Git branches and "pg-pages"
+### Git branches and "gh-pages"
 * A branch is a copy of the main repository where you can experiment without breaking your "master" copy. They are very useful when you have a stable copy of a project (usually on the "master" branch) but you still want to work on other features or improvements without breaking this working copy. In this case you create a branch, change it and test it and once it is ready, merge it with the "master":
   * To create a branch do `git branch <branchName>`.
   * To switch to that new branch do `git checkout <branchName>`.
