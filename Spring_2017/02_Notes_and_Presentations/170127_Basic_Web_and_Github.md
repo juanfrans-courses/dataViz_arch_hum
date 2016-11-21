@@ -55,14 +55,21 @@
       * Once you've installed Git through Homebrew, test it by typing `git version`.
     * There are other ways of installing Git. If you are interested check out this [tutorial](https://www.atlassian.com/git/tutorials/install-git/mac-os-x).
   * Next you need to configure Git with your username and email address. Do the following:
-    * `git config --global user.name "UserName"`
+    * `git config --global user.name "UserName"` (this is your Github username)
     * `git config --global user.email "email@email.com"`
   * Finally, you should allow Git to remember your username and password so you don't have to type them in every time you want to use it:
-    * First, check to see if the `credential-oskeychain` is installed:
+    * First, check to see if the `credential-osxkeychain` is installed:
       * `git credential-osxkeychain`
       * You should get the following message: `usage: git credential-osxkeychain <get|store|erase>`. If you do, it means that it is installed (skip the installation). If you don't, your computer should prompt you to download it as part of the XCode Command Line Tools: `xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.`
     * Once you've got it, tell Git to use the `oskeychain helper` by typing: `git config --global credential.helper osxkeychain`. Now, the next time you use Git, requiring the your username and password, you will grant access to the OSX keychain and your credentials will be stored.
     * For more info take a look at this [brief tutorial](https://help.github.com/articles/caching-your-github-password-in-git/) and if you ever need to change your credentials, [here](https://help.github.com/articles/updating-credentials-from-the-osx-keychain/) is how to do it.
+* Windows:
+  * Most of the steps described above for Mac will operate the same in Windows. The following is one straightforward option that will install Git and give you a slightly-easier-to-use terminal interface. (You can follow this [tutorial](https://www.atlassian.com/git/tutorials/install-git/mac-os-x) for further details.)
+    - Download the [Git for Windows Installer](https://git-for-windows.github.io/). The download link will direct you to a Github page, and at the bottom of the page will be a "Downloads" section. If you have a 64bit-version of Windows, you should download "Git-2.10.2-64-bit.exe", otherwise, download "Git-2.10.2-32-bit.exe".
+      - If you are unsure, refer the following guide to determine if you have [32bit or 64bit Windows](http://www.howtogeek.com/howto/21726/how-do-i-know-if-im-running-32-bit-or-64-bit-windows-answers/).
+    - Open the installer, and follow the prompts. On the third window, choose "Use Git from the Windows Command Prompt". On the fourth, choose "Checkout Windows-style, commit Unix-style line endings". On the fifth, choose "Use Windows' default console window". Otherwise leave the default options as-is. 
+    - Open "Git BASH". You can use this as your default terminal when using Git and the other command-line tools we will use in this course. 
+
 
 ### GitHub workflow:
 * **Creating a new repository**:
@@ -109,7 +116,7 @@
   * The URL for that page will be: https://githubUserName.github.io/repositoryName/
 
 ### Git cheat sheet
-* This [Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf) is a great resource.
+* This [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) is a great resource.
 
 ### Troubleshooting Git
 * `git reset HEAD fileName`: undoes a file added to the local repository.
