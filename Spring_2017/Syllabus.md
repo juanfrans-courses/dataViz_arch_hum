@@ -1,6 +1,6 @@
 # Data Visualization for Architecture, Urbanism and the Humanities
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
-* Fridays 9am - 11am | Studio @ Butler
+* Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Office hours: Mondays 10am - 12pm (previous email required)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
 * Teaching Assistant: Buck Fivel (brw2103)
