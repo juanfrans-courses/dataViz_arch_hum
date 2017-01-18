@@ -14,6 +14,7 @@
     - splits out the issues at stake in information visualization for 1) scientific practice, 2) journalistic practice, and 3) artistic practice. Primary point is to emphasize the "situatedness of the observer and the phenomenon being observed." Maybe it's repetative of other material — to look at more.
 * Chapter 1, "Information Visualization"
     - Thorough, textbook-like overview of different modes and methods of information visualization, what each kind is good for, as well as what it doesn't do. A little too detailed at some points, but excellent as a broad overview. More focused on actual manifestation of visualization than history-of (most others prioritize historicizing visualization rather than the techniques-of). I personally found this super helpful.
+* "Design and Redesign in Data Visualization" Fernanda Viégas / Martin Wattenberg. https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t
 
 ## Maybe
 ### (articles that I found interesting or compelling for one reason or another, but uncertain whether appropriate for the course)
@@ -68,3 +69,18 @@
 8. i
 9. i
 10. "Data Visualization as New Abstraction and Anti-Sublime." Manovich.
+
+
+## Potential new order (read for *var* week)
+1. Course Intro
+2. Kirk, "Working With Data" & "Defining Data Visualisation".
+3. Manovich, ~~"What is Visualization?"~~/"Visualization for Media Studies"
+4. Michael Friendly, "A Brief History of Data Visualization"
+5. Joanna Drucker, "Humanities Approaches to Graphical Display"; Tufte, "Graphical Integrity"
+6. <!-- Something from *Visual Complexity*? !-->
+7. Guest
+8. Guest
+9. **Spring Break**
+10. "Design and Redesign in Data Visualization" Fernanda Viégas / Martin Wattenberg https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t
+11. Kirk, "Visualisation Literacy"; Tufte, "Aesthetics and Technique"
+12. "Interactivity" from Kirk
