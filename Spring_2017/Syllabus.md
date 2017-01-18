@@ -1,9 +1,11 @@
 # Data Visualization for Architecture, Urbanism and the Humanities
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
-* Office hours: Mondays 10am - 12pm (previous email required)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
 * Teaching Assistant: Buck Fivel (brw2103)
+* Office hours:
+  * Juan: Mondays 10am - 12pm (previous email required)
+  * Buck: Wednesdays 10am - 12pm (previous email required)
 
 ## Course Overview
 This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the [Center for Spatial Research](http://c4sr.columbia.edu/) to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
@@ -18,23 +20,21 @@ The course will be centered around a semester long data visualization group proj
 * Collaborative work and version control (GitHub)
 * Working with text data
 * APIs and Web-scraping
+* Generative art
 
 ## Evaluation and Grading
 * 10% Class participation and discussion
-* 20% Individual assignments and tutorials
+* 20% Individual assignments and homework
 * 15% Midterm presentation
 * 20% Data visualization critique
-* 35% Final project and final presentation and report
+* 35% Final project and final presentation
 
 ## Resources and Materials
 Course files, tutorials and presentations will be located on Courseworks, on the [Center for Spatial Research](http://c4sr.columbia.edu/) website and on this repository.
 
-The readings for the class will be duly uploaded to Courseworks. Similarly, students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions
-to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
+The readings for the class will be duly uploaded to this repository. Students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
 
-[Link to the blog](http://mapping2016fall.tumblr.com/). **----Needs new Link----**
-
-[Link to number of posts](https://docs.google.com/spreadsheets/d/106JrEOQ64bOK1pqhBBwC-_z5eOU_4yphc7Fz0otWysI/edit?usp=sharing). **----Needs new Link----**
+[Link to the blog](https://dataviz2017spring.tumblr.com/).
 
 ## Schedule
 ### Week 1: Introduction to course and setup
@@ -54,6 +54,8 @@ January 27
 * Version control basics
 * Setup a GitHub repository
 * Setup a GitHub projects page
+* Readings due:
+  * *Kirk, Andy, Data Visualization, [Chapter 1 "Defining Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-1_Defining-Data-Visualisation.pdf) & [Chapter 4 "Working With Data"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-4_Working-With-Data.pdf)*
 
 ### Week 3: Data visualization matrix and basic programming concepts
 February 3
@@ -61,7 +63,9 @@ February 3
 * Introduction to JavaScript
 * Console
 * Basic programming exercises
-* **Assignment 1 Due**: Matrix of data visualization and data types
+* Readings due:
+  * *Manovich, Lev, ["What is Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_What-is-Visualization.pdf) & ["Visualization Methods for Media Studies"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_Visualization_Methods_Media_Studies.pdf)*
+* **Assignment 1 Due**: Matrix of data visualization types
 
 ### Week 4: Introduction to data visualization
 February 10
