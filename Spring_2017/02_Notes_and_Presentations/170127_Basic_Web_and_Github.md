@@ -53,7 +53,7 @@
       * To install Homebrew go to your terminal and type `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`.
       * Once you finish the installation process type `brew install git` to install Git (the command `brew install <package>` will install the package on your computer using Homebrew. While you are here, you should also install Wget with `brew install wget`. This tool will help you download information from URLs.)
       * Once you've installed Git through Homebrew, test it by typing `git version`.
-    * There are other ways of installing Git. If you are interested check out this [tutorial](https://www.atlassian.com/git/tutorials/install-git/mac-os-x).
+    * There are other ways of installing Git. If you are interested check out this [tutorial](https://www.atlassian.com/git/tutorials/install-git#mac-os-x).
   * Next you need to configure Git with your username and email address. Do the following:
     * `git config --global user.name "UserName"` (this is your Github username)
     * `git config --global user.email "email@email.com"`
@@ -64,7 +64,7 @@
     * Once you've got it, tell Git to use the `oskeychain helper` by typing: `git config --global credential.helper osxkeychain`. Now, the next time you use Git, requiring the your username and password, you will grant access to the OSX keychain and your credentials will be stored.
     * For more info take a look at this [brief tutorial](https://help.github.com/articles/caching-your-github-password-in-git/) and if you ever need to change your credentials, [here](https://help.github.com/articles/updating-credentials-from-the-osx-keychain/) is how to do it.
 * Windows:
-  * Most of the steps described above for Mac will operate the same in Windows. The following is one straightforward option that will install Git and give you a slightly-easier-to-use terminal interface. (You can follow this [tutorial](https://www.atlassian.com/git/tutorials/install-git/mac-os-x) for further details.)
+  * Most of the steps described above for Mac will operate the same in Windows. The following is one straightforward option that will install Git and give you a slightly-easier-to-use terminal interface. (You can follow this [tutorial](https://www.atlassian.com/git/tutorials/install-git#windows) for further details.)
     - Download the [Git for Windows Installer](https://git-for-windows.github.io/). The download link will direct you to a Github page, and at the bottom of the page will be a "Downloads" section. If you have a 64bit-version of Windows, you should download "Git-2.10.2-64-bit.exe", otherwise, download "Git-2.10.2-32-bit.exe".
       - If you are unsure, refer the following guide to determine if you have [32bit or 64bit Windows](http://www.howtogeek.com/howto/21726/how-do-i-know-if-im-running-32-bit-or-64-bit-windows-answers/).
     - Open the installer, and follow the prompts. On the third window, choose "Use Git from the Windows Command Prompt". On the fourth, choose "Checkout Windows-style, commit Unix-style line endings". On the fifth, choose "Use Windows' default console window". Otherwise leave the default options as-is. 
