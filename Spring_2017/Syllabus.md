@@ -120,14 +120,14 @@ March 24
 March 31
 * APIs and web-scrapping techniques
 * Readings due:
-  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualization-Literacy.pdf)*
+  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualisation-Literacy.pdf)*
   * *Tufte, Edward, ["Aesthetics and Technique"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Aesthetics-and-Technique.pdf)*
 
 ### Week 12: Interactivity
 April 7
 * Interactivity concepts and techniques
 * Reading due:
-  * *Kirk, Andy, Data Visualization, [Chapter 7 "Interactivity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-17_Interactivity.pdf)*
+  * *Kirk, Andy, Data Visualization, [Chapter 7 "Interactivity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-7_Interactivity.pdf)*
 * **Assignment 4 Due: Data visualization critique (individual)**
 
 ### Week 13: Generative Art
