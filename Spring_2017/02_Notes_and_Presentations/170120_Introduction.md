@@ -162,3 +162,12 @@ Here are some navigation shortcuts in the Terminal:
 * To create a local server navigate to the desired location (where you have your main .html file) in your terminal and do the following command: `python -m SimpleHTTPServer`. Then open your browser and got to `http://localhost:8000/`.
 * 8000 is the default location, but if you want to run the server in a different port you can do `python -m SimpleHTTPServer 4000` which will run the local server in the 4000 port. In your browser you should then go to `http://localhost:4000/`.
 * To stop the local server you should go to your terminal window and press 'ctrl+c' which stops the current command running.
+
+#### Windows instructions for running a server
+* If you are running Windows, you can use the same method as above, but you first need to install python on your system (it comes pre-installed on Mac)
+* Go to [python.org](https://www.python.org/downloads/windows/) to download the latest version of python for your machine. (Note: there are two versions of python, "2.7" and "3.6". For this class, we recommend installing version 2.7)
+* After downloading the installer, double-click to open it and follow the installation prompts, selecting the defaul settings until you get to the page that reads "Customize Python 2.7.XX"
+    - Scroll to the bottom of options, and click the drop-down selection that reads "Add python.exe to Path" (it should have a red "X" by default)
+    - Select the option that reads "Entire feature will be installed on local hard drive"
+* Follow the prompts on the rest of the setup, allow the installation to finish. When it's done, it will tell you, and python is now installed on your computer and available to use.
+* To test that python was installed, open the Command Prompt application, and enter `python --version`. It should read "Python 2.12.XX". Then you can follow the above directions on "Create a local server".
