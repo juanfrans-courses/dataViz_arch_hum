@@ -76,11 +76,11 @@
 2. Kirk, "Working With Data" & "Defining Data Visualisation".
 3. Manovich, ~~"What is Visualization?"~~/"Visualization for Media Studies"
 4. Michael Friendly, "A Brief History of Data Visualization"
-5. Joanna Drucker, "Humanities Approaches to Graphical Display"; Tufte, "Graphical Integrity"
+5. "Design and Redesign in Data Visualization" Fernanda Viégas / Martin Wattenberg https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t
 6. <!-- Something from *Visual Complexity*? !-->
 7. Guest
 8. Guest
 9. **Spring Break**
-10. "Design and Redesign in Data Visualization" Fernanda Viégas / Martin Wattenberg https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t
+10. Joanna Drucker, "Humanities Approaches to Graphical Display"; Tufte, "Graphical Integrity"
 11. Kirk, "Visualisation Literacy"; Tufte, "Aesthetics and Technique"
 12. "Interactivity" from Kirk
