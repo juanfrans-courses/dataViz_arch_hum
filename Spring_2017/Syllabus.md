@@ -1,9 +1,11 @@
 # Data Visualization for Architecture, Urbanism and the Humanities
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
-* Office hours: Mondays 10am - 12pm (previous email required)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
 * Teaching Assistant: Buck Fivel (brw2103)
+* Office hours:
+  * Juan: Mondays 10am - 12pm (previous email required)
+  * Buck: Wednesdays 10am - 12pm (previous email required)
 
 ## Course Overview
 This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the [Center for Spatial Research](http://c4sr.columbia.edu/) to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
@@ -18,23 +20,21 @@ The course will be centered around a semester long data visualization group proj
 * Collaborative work and version control (GitHub)
 * Working with text data
 * APIs and Web-scraping
+* Generative art
 
 ## Evaluation and Grading
 * 10% Class participation and discussion
-* 20% Individual assignments and tutorials
+* 20% Individual assignments and homework
 * 15% Midterm presentation
 * 20% Data visualization critique
-* 35% Final project and final presentation and report
+* 35% Final project and final presentation
 
 ## Resources and Materials
 Course files, tutorials and presentations will be located on Courseworks, on the [Center for Spatial Research](http://c4sr.columbia.edu/) website and on this repository.
 
-The readings for the class will be duly uploaded to Courseworks. Similarly, students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions
-to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
+The readings for the class will be duly uploaded to this repository. Students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
 
-[Link to the blog](http://mapping2016fall.tumblr.com/). **----Needs new Link----**
-
-[Link to number of posts](https://docs.google.com/spreadsheets/d/106JrEOQ64bOK1pqhBBwC-_z5eOU_4yphc7Fz0otWysI/edit?usp=sharing). **----Needs new Link----**
+[Link to the blog](https://dataviz2017spring.tumblr.com/).
 
 ## Schedule
 ### Week 1: Introduction to course and setup
@@ -54,6 +54,10 @@ January 27
 * Version control basics
 * Setup a GitHub repository
 * Setup a GitHub projects page
+* Bootstrap
+* Readings due:
+  * *Kirk, Andy, Data Visualization, [Chapter 1 "Defining Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-1_Defining-Data-Visualisation.pdf)*
+  * *Kirk, Andy, Data Visualization, [Chapter 4 "Working With Data"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-4_Working-With-Data.pdf)*
 
 ### Week 3: Data visualization matrix and basic programming concepts
 February 3
@@ -61,7 +65,10 @@ February 3
 * Introduction to JavaScript
 * Console
 * Basic programming exercises
-* **Assignment 1 Due**: Matrix of data visualization and data types
+* Readings due:
+  * *Manovich, Lev, ["What is Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_What-is-Visulaization.pdf)*
+  * *Manovich, Lev, ["Visualization Methods for Media Studies"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_Visualization_Methods_Media_Studies.pdf)*
+* **Assignment 1 Due: Website with homepage and type of data visualization (individual)**
 
 ### Week 4: Introduction to data visualization
 February 10
@@ -71,11 +78,16 @@ February 10
   * Variables
   * Loops
   * Conditionals
+* Reading due:
+  * *Friendly, Michael, [A Brief History of Data Visualization](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Friendly_2007_A_Brief_History_of_Data_Visualization.pdf)*
 
 ### Week 5: Presentations
 February 17
 * In class presentations
-* **Assignment 2 Due**: Detailed presentation of data visualization project
+* Readings due:
+  * *Drucker, Joanna, ["Humanities Approaches to Graphical Display"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Drucker_2010_HumanitiesApproachesToGraphicalDisplay.pdf)*
+  * *Tufte, Edward, ["Graphical Integrity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Graphical-Integrity.pdf)*
+* **Assignment 2 Due: Detailed presentation of data visualization project (group)**
 
 ### Week 6: Contemporary data visualization & advanced programming
 February 24
@@ -84,15 +96,19 @@ February 24
 * Programming exercises:
   * Functions
   * Objects
+* Reading due:
+  * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
+* **Due: Final project proposal (group)**
 
 ### Week 7: Working with text data
 March 3
-* Working with text data: presentation by Michelle McSweeney
-* **Assignment 3 Due**: Visualization of one dataset
+* Guest lecture: Michelle McSweeney (working with textual data)
+* Reading due: *TBD*
+* **Assignment 3 Due: Visualization of one dataset (individual)**
 
 ### Week 8: Guest lecture - Giorgia Lupi
 March 10
-* Guest lecture: Giorgia Lupi from Accurat
+* Guest lecture: Giorgia Lupi from [Accurat](http://www.accurat.it/)
 
 ### Week 9: Spring Break (no class)
 March 17
@@ -103,18 +119,24 @@ March 24
 ### Week 11: APIs
 March 31
 * APIs and web-scrapping techniques
+* Readings due:
+  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualisation-Literacy.pdf)*
+  * *Tufte, Edward, ["Aesthetics and Technique"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Aesthetics-and-Technique.pdf)*
 
 ### Week 12: Interactivity
 April 7
 * Interactivity concepts and techniques
-* **Assignment 4 Due**: Data visualization critique
+* Reading due:
+  * *Kirk, Andy, Data Visualization, [Chapter 7 "Interactivity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-7_Interactivity.pdf)*
+* **Assignment 4 Due: Data visualization critique (individual)**
 
-### Week 13: Work in class
+### Week 13: Generative Art
 April 14
-* Work in class
+* Readings due: *TBD*
 
-### Week 14: 3/4 Review
+### Week 14: Work in class
 April 21
+* Work in class
 
 ### Week 15: Work in class
 April 28
@@ -124,13 +146,12 @@ April 28
 May 5
 
 ### Assignment Schedule (Due Dates)
-* **January 27:** Basic website hosted on GitHub
-* **February 3:** Data and visualization matrix
-* **February 17:** Data visualization project presentation
-* **March 3:** One dataset visualization
-* **March 24:** Midterm review
-* **April 7:** Data visualization project critique
-* **April 21:** 3/4 review
+* **February 3:** Website with homepage and type of data visualization (individual)
+* **February 17:** Detailed presentation of data visualization project (group)
+* **February 24:** Final project proposal (group)
+* **March 3:** Visualization of one dataset (individual)
+* **March 24:** Midterm review (group)
+* **April 7:** Data visualization critique (individual)
 * **May 5:** Final review
 
 ## References
