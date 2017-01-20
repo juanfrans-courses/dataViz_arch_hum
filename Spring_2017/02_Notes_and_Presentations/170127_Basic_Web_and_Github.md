@@ -8,6 +8,37 @@
 * What about distribution? Web? Print? Sculpture? Other?
 * Interactivity?
 
+### Terminal (Command Line)
+The 'Terminal' or 'Command Line' is an interface where you will be able to navigate to specific parts of your computer and execute commands (see a more detailed explanation in [What is the difference between Terminal, Console, Shell, and Command Line?](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). For our purposes, the 'Terminal' is where we will run a local server from and where we will submit our Github pull and push requests from. In other words, it will be the main interface to help us set up everything.
+
+Here are some of the main commands in the Terminal:
+* `cd <path/to/folder>` - Change directory. Used to move to another folder in your computer.
+* `cd ~` - Change directory to home folder.
+* `cd -` - Change directory to previous directory.
+* `pwd` - Path working directory. Prints the current directory
+* `ls` - List directory contents.
+* `ls -lha` - List directory contents with the following flags (variations):
+  * `l` - List in long format.
+  * `h` - Lists file size in human readable form.
+  * `a` - Includes hidden files (files whose name begins with a dot (.)).
+* `man <command>` - Prints the manual for the specified command. Very useful to understand the command and its flags (variations).
+* `mv <file> <path/to/new/location>` - Move. Moves the specified file to the specified new location.
+* `cp <file> <path/to/copy/destination>` - Copy file to new location. **Careful, this command overwrites**. If what you are copying is a folder and its contents you should do `cp -r <folder> <path/to/copy/destination>` so that the copy is 'recursive' (`-r`) and the contents of the folder are copied as well.
+* `cat <file>` - Prints content of file. It is useful for reading a file very quickly but if the file is long you might want to do `head <file>` or `tail <file>` which displays the first or last lines of the file.
+* `mkdir <folderName>` - Creates a new folder.
+* `touch <fileName.extension>` - Creates a new file.
+* `rm <fileName>`: Remove file. **Careful, this command permanently deletes the specified file**. If you want to remove a directory and its contents do `rm -ri <folderName>`. This will remove recursively and ask for a confirmation for every file (`-i`).
+* `.` - the dot means here (in this location). Commonly used when you want to move or copy a file from another directory to your current one.
+
+Here are some navigation shortcuts in the Terminal:
+* 'ctrl+A' - moves to start of line.
+* 'ctrl+E' - moves to end of line.
+* 'ctrl+B' - moves back one character.
+* 'ctrl+F' - moves forward one character.
+* 'ctrl+U' - deletes from cursor to start of line.
+* 'ctrl+K' - deletes from cursor to end of line.
+* 'ctrl+W' - deletes from cursor to beginning of current word.
+
 ### Version control
 * [What is version control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 * What is it good for?

@@ -169,7 +169,11 @@ Here are some navigation shortcuts in the Terminal:
 * 'ctrl+W' - deletes from cursor to beginning of current word.
 
 ### Create a local server
-* To create a local server navigate to the desired location (where you have your main .html file) in your terminal and do the following command: `python -m SimpleHTTPServer`. Then open your browser and got to `http://localhost:8000/`.
+* To create a local server navigate to the desired location (where you have your main .html file) in your terminal.
+* Next (and you only need to do this once), check what version of Python you have installed (if you are in a Windows environment check out the specific Windows instructions below). To do this, type the following command in your terminal: `python --version`:
+  * If you have Python 2.x you should use the following command: `python -m SimpleHTTPServer`.
+  * If you have Python 3.x you should use `python3 -m http.server`.
+* Now, navigate to `http://localhost:8000/` on your browser.
 * 8000 is the default location, but if you want to run the server in a different port you can do `python -m SimpleHTTPServer 4000` which will run the local server in the 4000 port. In your browser you should then go to `http://localhost:4000/`.
 * To stop the local server you should go to your terminal window and press 'ctrl+c' which stops the current command running.
 
