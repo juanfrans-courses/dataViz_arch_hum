@@ -2,7 +2,7 @@
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: Buck Fivel (brw2103)
+* Teaching Assistant: Buck Wanner (brw2103)
 * Office hours:
   * Juan: Mondays 10am - 12pm (previous email required)
   * Buck: Wednesdays 10am - 12pm (previous email required)
@@ -34,7 +34,7 @@ Course files, tutorials and presentations will be located on Courseworks, on the
 
 The readings for the class will be duly uploaded to this repository. Students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
 
-[Link to the blog](https://dataviz2017spring.tumblr.com/).
+[Link to the blog](https://dataviz2017spring.tumblr.com/)
 
 ## Schedule
 ### Week 1: Introduction to course and setup
@@ -68,7 +68,7 @@ February 3
 * Readings due:
   * *Manovich, Lev, ["What is Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_What-is-Visulaization.pdf)*
   * *Manovich, Lev, ["Visualization Methods for Media Studies"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_Visualization_Methods_Media_Studies.pdf)*
-* **Assignment 1 Due: Website with homepage and type of data visualization (individual)**
+* **Assignment 1 Due: [Website with homepage and type of data visualization (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/01_Assignment_1.md)**
 
 ### Week 4: Introduction to data visualization
 February 10

@@ -4,15 +4,25 @@
 * Myself
 * Buck
 * Class:
-  * Objectives
-  * Data / tools (programming) / visualization
-  * Interdisciplinary (data / methods / results)
+  * Objectives:
+    * Data / tools (programming) / visualization
+    * Interdisciplinary (data / methods / results)
   * Readings
-  * Assignments
-  * Final project
+  * Assignments & homework
+  * Final project (groups of 4 people)
   * Grading
   * Blog
   * Resources
+
+### Questions about the course
+* No mapping
+* Online, interactive website as final product (with room for experimentation and other forms of data visualization)
+* Interdisciplinary groups
+* Collaborative work
+* Why programming?
+* Why p5.js (why not D3.js or Shiny in R)?
+* Why Github?
+* Why SublimeText ([download it here](https://www.sublimetext.com/3))
 
 ### Why data visualization
 * Discussion:
