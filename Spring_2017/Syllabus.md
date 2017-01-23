@@ -100,10 +100,12 @@ February 24
   * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
 * **Due: Final project proposal (group)**
 
-### Week 7: Working with text data
+### Week 7: APIs
 March 3
-* Guest lecture: Michelle McSweeney (working with textual data)
-* Reading due: *TBD*
+* APIs and web-scrapping techniques
+* Readings due:
+  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualisation-Literacy.pdf)*
+  * *Tufte, Edward, ["Aesthetics and Technique"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Aesthetics-and-Technique.pdf)*
 * **Assignment 3 Due: Visualization of one dataset (individual)**
 
 ### Week 8: Guest lecture - Giorgia Lupi
@@ -116,12 +118,10 @@ March 17
 ### Week 10: Midterm review
 March 24
 
-### Week 11: APIs
+### Week 11: Working with text data
 March 31
-* APIs and web-scrapping techniques
-* Readings due:
-  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualisation-Literacy.pdf)*
-  * *Tufte, Edward, ["Aesthetics and Technique"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Aesthetics-and-Technique.pdf)*
+* Guest lecture: Michelle McSweeney (working with textual data)
+* Reading due: *TBD*
 
 ### Week 12: Interactivity
 April 7
