@@ -12,5 +12,46 @@ There are many ways of visualizing data and many types of charts and graphs. Som
   * **Advantages** and **disadvantages** or this type of graph.
 * Think carefully about the layout and graphic elements of your site. Start experimenting with fonts, colors and styles. As always, *you should be able to justify every single pixel on your site*.
 
+### Types of data visualization (charts)
+* Bar chart / clustered bar / stacked bar
+* Sankey
+* Marimekko chart
+* Circular column
+* Pyramid (population)
+* Bubble comparison
+* Gauge
+* Heatmap chart
+* Slope chart
+* Histogram
+* Box & Whisker
+* Violin plot
+* Confidence interval
+* Scatter plot / connected scatterplot
+* Pie chart / Donut chart
+* Line chart
+* Area chart
+* Sparklines
+* Stacked area
+* Stream
+* Gantt chart
+* Flowchart
+* Nightingale / polar chart
+* Sunburst
+* Treemap
+* Voronoi
+* Parallel coordinates
+* Chord
+* Dendrogram
+* Hive plot
+* Network / Force directed
+* Radar chart
+* Circle packing
+* Node-Link Tree
+* Matrix chart / Co-occurrence matrix
+* Word cloud
+* Pictogram
+* Connected dot plot
+* Venn diagram
+
 ### Due Date
 * Submit your site's URL to Courseworks before the end of **Thursday, February 2**.

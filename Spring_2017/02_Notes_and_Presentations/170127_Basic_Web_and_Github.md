@@ -7,6 +7,33 @@
 * Is the process of working with the data different?
 * What about distribution? Web? Print? Sculpture? Other?
 * Interactivity?
+* Types of data:
+  * **Nominal**: Qualitative data; categorical data; different groups with no order and no "distance" between them. It is not necessarily textual, it can also be numerical, so you need to treat it with caution and not perform any mathematical operations on it (ie. student ID numbers). Examples:
+    * Gender
+    * Country
+    * Zip code
+    * Language
+    * True or False (this type of variable is called a 'boolean' and in programming it is treated differently than text data).
+  * **Ordinal**: Still qualitative and categorical but has an order. However, there is no way of measuring exactly how far away one category is from another. Rankings. Some of these are ascending/descending and some of them are diverging, which should come into consideration when choosing color schemes. Examples:
+    * Olympic medals
+    * Survey questions (strongly agree, somewhat agree, somewhat disagree, strongly disagree).
+  * **Interval**: Quantitative data. Has an arbitrary scale, in which the difference between values is meaningful but operations such as multiplications are not. The zero value doesn't mean there is no amount. Example:
+    * Temperature in C or in F (not in Kelvin).
+  * **Ratio**: Quantitative. This is the most common type of data. The differences in values have properties of difference and scale. Most of them are on a linear scale, but some of them, like decibels or Righter are on a logarithmic scale (an earthquake of 4.0 on the Righter scale is 1000 times stronger than an earthquake of 2.0 at the righter scale).
+  * **Text**
+  * **Temporal**: Sometimes it's a good idea to transform time/date values to single units of time, like days or minutes or seconds.
+* Statistical methods:
+  * **Frequency counts**
+  * **Frequency distribution**
+  * **Central tendency**:
+    * Mean
+    * Median
+    * Mode
+  * **Spread**:
+    * Maximum, minimum, range
+    * Percentiles (the value below which x% of the values fall).
+    * Standard deviation
+* Completeness: the amount of data doesn't necessarily guarantee completeness or representativeness.
 
 ### Terminal (Command Line)
 The 'Terminal' or 'Command Line' is an interface where you will be able to navigate to specific parts of your computer and execute commands (see a more detailed explanation in [What is the difference between Terminal, Console, Shell, and Command Line?](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). For our purposes, the 'Terminal' is where we will run a local server from and where we will submit our Github pull and push requests from. In other words, it will be the main interface to help us set up everything.
