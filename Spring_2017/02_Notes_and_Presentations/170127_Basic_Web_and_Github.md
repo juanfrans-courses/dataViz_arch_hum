@@ -66,6 +66,8 @@ Here are some navigation shortcuts in the Terminal:
 * 'ctrl+K' - deletes from cursor to end of line.
 * 'ctrl+W' - deletes from cursor to beginning of current word.
 
+For much more information and super useful tutorials, check out Dennis Tenen's Digital Humanities tutorials on [command-line](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md).
+
 ### Version control
 * [What is version control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 * What is it good for?
@@ -127,7 +129,6 @@ Here are some navigation shortcuts in the Terminal:
       - If you are unsure, refer the following guide to determine if you have [32bit or 64bit Windows](http://www.howtogeek.com/howto/21726/how-do-i-know-if-im-running-32-bit-or-64-bit-windows-answers/).
     - Open the installer, and follow the prompts. On the third window, choose "Use Git from the Windows Command Prompt". On the fourth, choose "Checkout Windows-style, commit Unix-style line endings". On the fifth, choose "Use Windows' default console window". Otherwise leave the default options as-is. 
     - Open "Git BASH". You can use this as your default terminal when using Git and the other command-line tools we will use in this course. 
-
 
 ### GitHub workflow:
 * **Creating a new repository**:
