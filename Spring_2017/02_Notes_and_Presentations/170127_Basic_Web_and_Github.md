@@ -1,5 +1,9 @@
 ## Notes 01/27/2017 - Basic Web Concepts and GitHub
 
+### Intro
+* Attendance, Program
+* Workshop: "Version Control for Textual Criticism", Friday 2-4pm at Studio@Butler (Dennis Tenen).
+
 ### Discussion
 * What is data in your field?
 * How does it look?
@@ -67,6 +71,8 @@ Here are some navigation shortcuts in the Terminal:
 * 'ctrl+W' - deletes from cursor to beginning of current word.
 
 For much more information and super useful tutorials, check out Dennis Tenen's Digital Humanities tutorials on [command-line](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md).
+
+### Trouble shoot local server
 
 ### Version control
 * [What is version control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
