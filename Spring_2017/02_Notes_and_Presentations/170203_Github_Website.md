@@ -1,43 +1,49 @@
-## Notes 01/27/2017 - Basic Web Concepts and GitHub
+## Notes 02/03/2017 - Basic Web Concepts and GitHub
 
-### Intro
-* Attendance, Program
-* Workshop: "Version Control for Textual Criticism", Friday 2-4pm at Studio@Butler (Dennis Tenen).
+### Plan
+* Make sure everything is in order (Github and local server)
+* Create a website and test it through a local server
+* Create a 'gh-pages' branch and upload to Github
+* Check website running live on Github
+* Give out assignment
+* Demonstrate collaboration in Github (Buck can upload some changes and I will `fetch` and `pull` them).
+* Start playing with Javascript (basic programming exercises)
+* Console
+* Blog
 
-### Discussion
-* What is data in your field?
-* How does it look?
-* Is the data different?
-* Is the process of working with the data different?
-* What about distribution? Web? Print? Sculpture? Other?
-* Interactivity?
-* Types of data:
-  * **Nominal**: Qualitative data; categorical data; different groups with no order and no "distance" between them. It is not necessarily textual, it can also be numerical, so you need to treat it with caution and not perform any mathematical operations on it (ie. student ID numbers). Examples:
-    * Gender
-    * Country
-    * Zip code
-    * Language
-    * True or False (this type of variable is called a 'boolean' and in programming it is treated differently than text data).
-  * **Ordinal**: Still qualitative and categorical but has an order. However, there is no way of measuring exactly how far away one category is from another. Rankings. Some of these are ascending/descending and some of them are diverging, which should come into consideration when choosing color schemes. Examples:
-    * Olympic medals
-    * Survey questions (strongly agree, somewhat agree, somewhat disagree, strongly disagree).
-  * **Interval**: Quantitative data. Has an arbitrary scale, in which the difference between values is meaningful but operations such as multiplications are not. The zero value doesn't mean there is no amount. Example:
-    * Temperature in C or in F (not in Kelvin).
-  * **Ratio**: Quantitative. This is the most common type of data. The differences in values have properties of difference and scale. Most of them are on a linear scale, but some of them, like decibels or Righter are on a logarithmic scale (an earthquake of 4.0 on the Righter scale is 1000 times stronger than an earthquake of 2.0 at the righter scale).
-  * **Text**
-  * **Temporal**: Sometimes it's a good idea to transform time/date values to single units of time, like days or minutes or seconds.
-* Statistical methods:
-  * **Frequency counts**
-  * **Frequency distribution**
-  * **Central tendency**:
-    * Mean
-    * Median
-    * Mode
-  * **Spread**:
-    * Maximum, minimum, range
-    * Percentiles (the value below which x% of the values fall).
-    * Standard deviation
-* Completeness: the amount of data doesn't necessarily guarantee completeness or representativeness.
+### Creating a website and testing it with a local server
+* Navigate to folder (new)
+* Create HTML and CSS file
+* Run the local server:
+  * `python3 -m http.server` or `python -m SimpleHTTPServer`
+* Open browser at `http://localhost:8000/`
+
+### Create a 'gh-pages' branch and upload to Github
+* Initialize new repository with `git init`
+* Add 'README.md' file with description of repository
+* Add files with `git add -A` (a good explanation of the difference between `git add -A` and `git add .` can be found [here](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add/37621823)).
+* Commit your changes with `git commit -m 'First commit'`.
+* Go to https://github.com/ and create a new repository for your website.
+* Back in the Terminal link your repository with `git remote add origin repositoryURL`. This links your local repository with your remote one on GitHub (this step only needs to be done the first time you setup a new repository).
+* Verify that your new **local** repository is linked to the right **remote** repository with `git remote -v`.
+* Push your changes with `git push -u origin master`.
+* Go to your (remote) repository on https://github.com/ and verify that the files are there.
+* Back in Terminal create a new branch called "gh-pages" with `git branch gh-pages`.
+* List all the branches in your repository with `git branch` (the one with the * in front is the one you are currently working on).
+* Switch to the new branch with `git checkout gh-pages`
+* List all the branches again and make sure you are working on the "gh-pages" branch.
+* Finally, `add`, `commit` and `push` your changes to your remote repository.
+* Go to your new URL (http://username.github.io/repository).
+* Cheers!
+
+### Give out assignment
+
+### Demo of collaboration on Github
+
+### Javascript and p5.js
+
+### Blog
+If there's time, go over posts on the blog
 
 ### Terminal (Command Line)
 The 'Terminal' or 'Command Line' is an interface where you will be able to navigate to specific parts of your computer and execute commands (see a more detailed explanation in [What is the difference between Terminal, Console, Shell, and Command Line?](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)). For our purposes, the 'Terminal' is where we will run a local server from and where we will submit our Github pull and push requests from. In other words, it will be the main interface to help us set up everything.
@@ -71,8 +77,6 @@ Here are some navigation shortcuts in the Terminal:
 * 'ctrl+W' - deletes from cursor to beginning of current word.
 
 For much more information and super useful tutorials, check out Dennis Tenen's Digital Humanities tutorials on [command-line](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md).
-
-### Trouble shoot local server
 
 ### Version control
 * [What is version control?](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
@@ -127,7 +131,7 @@ For much more information and super useful tutorials, check out Dennis Tenen's D
     * First, check to see if the `credential-osxkeychain` is installed:
       * `git credential-osxkeychain`
       * You should get the following message: `usage: git credential-osxkeychain <get|store|erase>`. If you do, it means that it is installed (skip the installation). If you don't, your computer should prompt you to download it as part of the XCode Command Line Tools: `xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.`
-    * Once you've got it, tell Git to use the `oskeychain helper` by typing: `git config --global credential.helper osxkeychain`. In windows, use `git config --global credential.helper wincred`. Now, the next time you use Git, requiring the your username and password, you will grant access to the OSX keychain and your credentials will be stored.
+    * Once you've got it, tell Git to use the `oskeychain helper` by typing: `git config --global credential.helper osxkeychain`. Now, the next time you use Git, requiring the your username and password, you will grant access to the OSX keychain and your credentials will be stored.
     * For more info take a look at this [brief tutorial](https://help.github.com/articles/caching-your-github-password-in-git/) and if you ever need to change your credentials, [here](https://help.github.com/articles/updating-credentials-from-the-osx-keychain/) is how to do it.
 * Windows:
   * Most of the steps described above for Mac will operate the same in Windows. The following is one straightforward option that will install Git and give you a slightly-easier-to-use terminal interface. (You can follow this [tutorial](https://www.atlassian.com/git/tutorials/install-git#windows) for further details.)
@@ -144,7 +148,7 @@ For much more information and super useful tutorials, check out Dennis Tenen's D
   * The basic commands for this one are:
     * `cd path/to/project/folder`: in your Terminal window navigate to your project folder.
     * `git init`: type this in your project folder start git.
-    * `git add -A`: add all the changes to your local repository. This will add the new files, the modifications to existing files and note the files that have been deleted. You are basically saying , "add all that has changed to git". To undo an `add` use the following command: `git reset HEAD fileName`. A good explanation of the difference between `git add -A` and `git add .` can be found [here](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add/37621823).
+    * `git add .`: add the existing files to your local git (the dot(.) at the end of the command means "this", so you are basically saying, "add all that is here to git"). To undo an `add` use the following command: `git reset HEAD fileName`.
     * `git commit -m "First commit"`: this command commits the files that you just added and makes them ready to be synchronized with your remote repository. To undo a `commit` use the following command: `git reset --soft HEAD~1`.
     * Now navigate to the Quick Setup page of your repository on GitHub (the one you created just before this) and copy the repository URL.
     * `git remote add origin repositoryURL`: this links your local repository with your remote one on GitHub. This step only needs to be done the first time you setup a new repository.
