@@ -2,7 +2,7 @@
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: Buck Wanner (brw2103)
+* Teaching Assistant: Buck Wanner (brw2103) and Mark Madera (mmm2362)
 * Office hours:
   * Juan: Mondays 10am - 12pm (previous email required)
   * Buck: Wednesdays 10am - 12pm (previous email required)
