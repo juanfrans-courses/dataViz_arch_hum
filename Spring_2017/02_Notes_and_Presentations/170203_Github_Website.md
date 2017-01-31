@@ -171,7 +171,7 @@ li.assignmentLink > a:hover{
 }
 ```
 * Sample assignment_01.htlm:
-```
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
