@@ -19,15 +19,16 @@
 * Open browser at `http://localhost:8000/`
 
 ### Create a 'gh-pages' branch and upload to Github
-* Initialize new repository with `git init`
-* Add 'README.md' file with description of repository
-* Add files with `git add -A` (a good explanation of the difference between `git add -A` and `git add .` can be found [here](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add/37621823)).
-* Commit your changes with `git commit -m 'First commit'`.
-* Go to https://github.com/ and create a new repository for your website.
-* Back in the Terminal link your repository with `git remote add origin repositoryURL`. This links your local repository with your remote one on GitHub (this step only needs to be done the first time you setup a new repository).
-* Verify that your new **local** repository is linked to the right **remote** repository with `git remote -v`.
-* Push your changes with `git push -u origin master`.
-* Go to your (remote) repository on https://github.com/ and verify that the files are there.
+* Create a new repository:
+  - Initialize new repository with `git init`
+  - Add 'README.md' file with description of repository
+  - Add files with `git add -A` (a good explanation of the difference between `git add -A` and `git add .` can be found [here](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add/37621823)).
+  - Commit your changes with `git commit -m 'First commit'`.
+  - Go to https://github.com/ and create a new repository for your website.
+  - Back in the Terminal link your repository with `git remote add origin repositoryURL`. This links your local repository with your remote one on GitHub (this step only needs to be done the first time you setup a new repository).
+  - Verify that your new **local** repository is linked to the right **remote** repository with `git remote -v`.
+  - Push your changes with `git push -u origin master`.
+  - Go to your (remote) repository on https://github.com/ and verify that the files are there.
 * Back in Terminal create a new branch called "gh-pages" with `git branch gh-pages`.
 * List all the branches in your repository with `git branch` (the one with the * in front is the one you are currently working on).
 * Switch to the new branch with `git checkout gh-pages`
