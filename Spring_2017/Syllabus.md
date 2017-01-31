@@ -2,7 +2,7 @@
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2017
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: Buck Wanner (brw2103)
+* Teaching Assistant: Buck Wanner (brw2103) and Mark Madera (mmm2362)
 * Office hours:
   * Juan: Mondays 10am - 12pm (previous email required)
   * Buck: Wednesdays 10am - 12pm (previous email required)
@@ -68,7 +68,6 @@ February 3
 * Readings due:
   * *Manovich, Lev, ["What is Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_What-is-Visulaization.pdf)*
   * *Manovich, Lev, ["Visualization Methods for Media Studies"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_Visualization_Methods_Media_Studies.pdf)*
-* **Assignment 1 Due: [Website with homepage and type of data visualization (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/01_Assignment_1.md)**
 
 ### Week 4: Introduction to data visualization
 February 10
@@ -80,6 +79,7 @@ February 10
   * Conditionals
 * Reading due:
   * *Friendly, Michael, [A Brief History of Data Visualization](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Friendly_2007_A_Brief_History_of_Data_Visualization.pdf)*
+* **Assignment 1 Due: [Website with homepage and type of data visualization (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/01_Assignment_1.md)**
 
 ### Week 5: Presentations
 February 17
@@ -146,7 +146,7 @@ April 28
 May 5
 
 ### Assignment Schedule (Due Dates)
-* **February 3:** Website with homepage and type of data visualization (individual)
+* **February 10:** Website with homepage and type of data visualization (individual)
 * **February 17:** Detailed presentation of data visualization project (group)
 * **February 24:** Final project proposal (group)
 * **March 3:** Visualization of one dataset (individual)
