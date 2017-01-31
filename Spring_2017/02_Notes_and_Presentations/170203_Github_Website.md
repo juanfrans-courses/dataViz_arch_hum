@@ -52,7 +52,10 @@
       * site-specific.css
     * img/
       * jfs_image.jpeg
+    * libraries/
+      * (various javascript and other libraries)
     * js/
+      * (various javascript scripts)
 * Sample index.html:
 ```HTML
 <!DOCTYPE html>
@@ -79,6 +82,7 @@
       <h2>ASSIGNMENTS</h2>
       <ul>
         <li class="assignmentLink"><a href="assignments/assignment_01.html">Assignment 1 - Chart Description</a></li>
+        <li class="assignmentLink"><a href="assignments/introP5.html">Intro to Javascript - p5.js</a></li>
       </ul>
     </div>
   </body>
@@ -175,7 +179,7 @@ li.assignmentLink > a:hover{
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Page Example</title>
+    <title>Assignment 01</title>
 
     <!-- Stylesheet link -->
     <link rel="stylesheet" type="text/css" href="../css/site-specific.css">
@@ -200,7 +204,160 @@ li.assignmentLink > a:hover{
 
 ### Demo of collaboration on Github
 
-### Javascript and p5.js
+### Intro to Javascript and p5.js
+* Download and installation:
+  - Download [p5.js library (complete)](https://p5js.org/download/).
+  - Unzip it and add it to the `libraries/` folder. Make sure that your `p5.js` and `p5.min.js` files are directly in the `libraries/` folder, not inside other folders.
+* To add the p5.js library to your `.html` file, make sure you add the following lines inside the `<head></head>` tags:
+  * `<script language="javascript" type="text/javascript" src="../libraries/p5.js"></script>`
+  * `<script language="javascript" type="text/javascript" src="../js/sketch.js"></script>`
+  * Sample of introP5.html file:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Assignment 01</title>
+
+    <!-- Stylesheet link -->
+    <link rel="stylesheet" type="text/css" href="../css/site-specific.css">
+
+    <!-- Google fonts code -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+
+    <!-- Loading p5.js library -->
+    <script language="javascript" type="text/javascript" src="../libraries/p5.js"></script>
+
+    <!-- Link to p5 sketch file -->
+    <script language="javascript" type="text/javascript" src="../js/sketch.js"></script>
+  </head>
+  <body>
+    <div class="title">
+      <h1>INTRO TO JAVASCRIPT - P5.JS</h1>
+    </div>
+  </body>
+</html>
+```
+* Sketch file:
+  * Create a new file in your `js/` folder called `sketch.js`. This is where your actual javascript code will go. You could add it into your `.html` file but it's cleaner this way.
+  * The two basic function in the sketch file will be the `setup` and the `draw`. As it's name implies, the `setup` function will hold your script's setup, like the size of the canvas and the color mode. The `draw` function will hold the functions that make the actual drawing on the screen.
+* First example:
+```js
+function setup(){
+  createCanvas(800, 800);
+  console.log('Setup complete...')
+}
+
+function draw(){
+  if (mouseIsPressed){
+    fill(0);
+  }
+  else {
+    fill(255);
+  }
+  ellipse(mouseX, mouseY, 50, 50);
+}
+```
+
+### Javascript and Programming basics
+* **Javascript** is a 'high-level, dynamic, untyped and interpreted programming language' [Wikipedia article](https://en.wikipedia.org/wiki/JavaScript):
+  * High-level: strong abstraction, as opposed to low-level languages. Python is also a 'high-level' language.
+  * Dynamic: do work at runtime, not during compilation.
+  * Untyped: allows operations to be performed on any type of data.
+  * Interpreted: executes instructions directly, without previously compiling.
+* Variables `var`:
+  * Strings: text, they can be numbers, but treated as if they were text
+    * `var name = "Juan";`
+    * `var lastName = 'Saldarriaga';` (you can use single or double quotes)
+    * `var statement = "His name is 'Juan'";` (you can use single quotes inside double quotes or vice versa).
+  * Numbers: with or without decimals
+    * `var x = 1;`
+    * `var y = 1.63;`
+  * Booleans: true or false
+    * `var juan = false;`
+    * `var saldarriaga = true;`
+  * Arrays: [] contain lists of elements, ordered by their position in the array. The first element is the item [0], the second is the item [1], etc.
+    * `var names = ["juan", "francisco", "jose"];`
+    * `var temperatures = [12, 53, 23];`
+  * Objects: {} they have multiple properties, which can include functions.
+    * `var car = {brand: "volvo", year: 2010, color: "red", sedan: false};`
+  * Some interesting operations:
+    * `var x = 25 + "Juan";`
+    * `var x = 25 + 5 + "Juan";` vs. `var x = "Juan" + 25 + 5;`
+    * The function typeof() will print the variable type:
+      * `var x = "Juan";`
+      * `typeof(x)`
+      * Note, the `typeof()` function will return 'object' for a variable of type array because in Javascript, arrays are actually objects...
+    * Because variables are dynamic in Javascript you can re-assign a variable with a value of another type:
+      * `var x = "Juan";` (here, it's of type string)
+      * `var x = 34;` (we've used the same variable and now it's of type number)
+* Comments: `//` or
+```js
+/*This is a comment
+that spans multiple lines*/
+```
+* Functions:
+```js
+function myFunction(x1, x2, x3){
+  var x4 = x1 * x2 * x3;
+  return x4;
+}
+```
+  * Javascript and p5.js have many pre-built functions. For example:
+    * console.log()
+    * ellipse()
+    * draw()
+    * setup()
+    * preload()
+    * typeof()
+* Conditionals and comparisons:
+  * If this is true, then do that
+  * Examples:
+```js
+if (x > 10) {
+  console.log('Yes, x is greater than 10...');
+  // you can also run another function here or do other stuff...
+}
+else if (x == 10) {
+  console.log('X is actually equal to 10...');
+  // you can also run other functions or do other stuff here...
+  // the 'else if' statement is not always necessary...
+}
+else {
+  console.log('No, x is not greater or equal to 10...');
+  // you can also run another function here or do other stuff...
+  // the 'else' statement is not always necessary...
+}
+```
+  * Comparison operators:
+    * `==` equal to (this is a question, "is this equal to this?")
+    * `===` equal in value and equal in type
+    * `!=` not equal
+    * `>` greater than, `<` less than, `>=` greater or equal than, `<=` less or equal than.
+  * Logical operators:
+    * `&&` and (if this **AND** this is true, then do that...)
+    * `||` or (if this **OR** this is true, then do that...)
+* Loops (for and while):
+```js
+// This is the classic loop:
+for (var i = 0; i < 100; i++){
+  console.log(i);
+}
+
+// You can also have nested loops:
+for (var i = 0; i < 100; i++){
+  for (var j = 0; j < 100; j++){
+    console.log(str(i) + ' - ' + str(j));
+  }
+}
+
+// You can also have 'while' loops:
+while (i < 10){
+  console.log(i);
+  i++;
+}
+```
+* Global vs. Local
+* [Semicolon](http://inimino.org/~inimino/blog/javascript_semicolons)
 
 ### Blog
 If there's time, go over posts on the blog
