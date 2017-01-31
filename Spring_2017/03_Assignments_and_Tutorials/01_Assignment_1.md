@@ -6,7 +6,7 @@ There are many ways of visualizing data and many types of charts and graphs. Som
 * Your website should have a **landing page** with a brief bio and a **second page** where you explore a specific type of visualization (don't forget to include a link to your second page from your landing page).
 * In this exploration you should provide the following elements:
   * **Description** of the chart or graph
-  * **Images and examples** of the chart or graph in other projects
+  * **Images and examples** of the chart or graph in other projects ('in the wild')
   * **Types of data** for which the chart or graph is appropriate
   * Brief description of **how to build** the chart or graph (what are the axis, what other elements does it need, what software or tools facilitate the building of this type of chart).
   * **Advantages** and **disadvantages** or this type of graph.
@@ -53,5 +53,8 @@ There are many ways of visualizing data and many types of charts and graphs. Som
 * Connected dot plot
 * Venn diagram
 
+### Chart Assignment
+This [Google Doc](https://docs.google.com/spreadsheets/d/1pLz_QoRS_uc5hRy5MbfVBESCAgNswdxa5PJh5rwz5cE/edit?usp=sharing) has the chart assignments. If you would like to swap with someone else, or choose a different chart from the 'Other Charts' category, please email me.
+
 ### Due Date
-* Submit your site's URL to Courseworks before the end of **Thursday, February 2**.
+* Submit your site's URL to Courseworks before the end of **Thursday, February 9**.

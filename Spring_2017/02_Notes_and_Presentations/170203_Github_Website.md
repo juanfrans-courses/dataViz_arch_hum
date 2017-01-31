@@ -29,13 +29,14 @@
   - Verify that your new **local** repository is linked to the right **remote** repository with `git remote -v`.
   - Push your changes with `git push -u origin master`.
   - Go to your (remote) repository on https://github.com/ and verify that the files are there.
-* Back in Terminal create a new branch called "gh-pages" with `git branch gh-pages`.
-* List all the branches in your repository with `git branch` (the one with the * in front is the one you are currently working on).
-* Switch to the new branch with `git checkout gh-pages`
-* List all the branches again and make sure you are working on the "gh-pages" branch.
-* Finally, `add`, `commit` and `push` your changes to your remote repository.
-* Go to your new URL (http://username.github.io/repository).
-* Cheers!
+* Create 'gh-pages' branch
+  - Back in Terminal create a new branch called "gh-pages" with `git branch gh-pages`.
+  - List all the branches in your repository with `git branch` (the one with the * in front is the one you are currently working on).
+  - Switch to the new branch with `git checkout gh-pages`
+  - List all the branches again and make sure you are working on the "gh-pages" branch.
+  - Finally, `add`, `commit` and `push` your changes to your remote repository.
+  - Go to your new URL (http://username.github.io/repository).
+  - Cheers!
 
 ### Give out assignment
 
