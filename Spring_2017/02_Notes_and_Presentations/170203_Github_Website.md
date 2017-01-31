@@ -40,6 +40,164 @@
 
 ### Give out assignment
 
+### Quick Example of Page
+* How to embed fongs from online sources (Google Fonts, Adobe Typekit)
+* Difference between Margin, Border and Padding in CSS ([stackoverflow](https://stackoverflow.com/questions/5958699/difference-between-margin-and-padding))
+* Sample folder structure:
+  * Main folder:
+    * index.html
+    * assignments/
+      * assignment_01.html
+    * css/
+      * site-specific.css
+    * img/
+      * jfs_image.jpeg
+    * js/
+* Sample index.html:
+```HTML
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Example</title>
+
+    <!-- Stylesheet link -->
+    <link rel="stylesheet" type="text/css" href="css/site-specific.css">
+
+    <!-- Google fonts code -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+  </head>
+  <body>
+    <div class="title">
+      <h1>DATA VISUALIZATION FOR ARCHITECTURE, URBANISM AND THE HUMANITIES</h1>
+      <h3>by JUAN FRANCISCO SALDARRIAGA</h3>
+    </div>
+    <div class="bio">
+      <img class="bioImage" src="img/jfs_image.jpeg">
+      <p class="bioText">I am a researcher at the <a href="http://c4sr.columbia.edu/">Center for Spatial Research</a> at Columbia University and an adjunct assistant professor of urban planning and architecture at the <a href="http://www.arch.columbia.edu/"> Graduate School of Architecture, Planning and Preservation (GSAPP)</a>. I do research at the intersection of data, GIS, urbanism, architecture and the humanities and I teach graduate level <a href="https://github.com/juanfrans-courses">seminars</a> on mapping, advanced GIS and data visualization. In the past I've worked as a research scholar at the <a href="http://spatialinformationdesignlab.org/">Spatial Information Design Lab</a>, an architectural designer for <a href="http://www.cz-studio.com/">Carlos Zapata Studio</a> and <a href="http://www.dgtarchitects.com/">D.G.T. Architects</a>, and as the GIS project coordinator for the <a href="http://www.catholiccharitiesny.org/">Catholic Charities</a>.</p>
+    </div>
+    <div class=linkList>
+      <h2>ASSIGNMENTS</h2>
+      <ul>
+        <li class="assignmentLink"><a href="assignments/assignment_01.html">Assignment 1 - Chart Description</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
+```
+* Sample site-specific.css:
+```css
+body{
+    font-family: 'Roboto Condensed', helvetica, sans-serif;
+}
+
+div.title{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+  color: #000000;
+    font-weight: 400;
+    font-size: 2.5em;
+    max-width: 800px;
+    text-align: center;
+    margin: 25px, 25px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+  font-size: 1.25em;
+    font-weight: 300;
+    max-width: 800px;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+div.bio{
+    max-width: 800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img.bioImage{
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+p.bioText{
+    font-weight: 300;
+    font-size: 1.05em;
+    line-height: 130%;
+}
+
+p.bioText > a{
+    color: #000000;
+}
+
+p.bioText > a:hover{
+    background-color: #FFFF00; 
+}
+
+div.linkList{
+    max-width: 800px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li.assignmentLink{
+    font-weight: 300;
+    font-size: 1.05em;
+    line-height: 130%;
+}
+
+li.assignmentLink > a{
+    color: #000000;
+}
+
+li.assignmentLink > a:hover{
+    background-color: #FFFF00; 
+}
+```
+* Sample assignment_01.htlm:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Example</title>
+
+    <!-- Stylesheet link -->
+    <link rel="stylesheet" type="text/css" href="../css/site-specific.css">
+
+    <!-- Google fonts code -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+  </head>
+  <body>
+    <div class="title">
+      <h1>ASSIGNMENT 01 - PIE & DONUT CHARTS</h1>
+    </div>
+    <div class="bio">
+      <h2>Description</h2>
+      <p class="bioText">This is the text for the chart, with multiple links... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent posuere ante quam, nec blandit ex tristique sed. Vivamus neque ex, imperdiet eget urna vel, volutpat consectetur leo. Nulla nunc sem, consectetur ac fermentum in, euismod vel tortor. Suspendisse congue purus quis nunc sodales laoreet. Nulla sed tristique tellus. Curabitur at sollicitudin mi, eu pellentesque arcu. In at orci libero. Quisque interdum, ipsum eget placerat eleifend, massa diam pellentesque orci, ac suscipit eros sem id erat. Nunc iaculis nibh id nulla sodales egestas. Duis ultrices aliquam neque ut luctus. Fusce condimentum dictum scelerisque. Cras eu fringilla ligula.<br><br>Proin interdum lorem tincidunt aliquet placerat. Maecenas aliquam venenatis erat. Integer tempus odio varius nunc egestas, id imperdiet lectus auctor. Morbi non varius mi, ut pulvinar odio. Nam nec dolor massa. Nunc a molestie ligula. Nullam imperdiet vestibulum felis in consequat. Aliquam felis turpis, bibendum vel mollis ut, bibendum ut libero. Maecenas ultricies molestie lectus, in congue nibh pellentesque sit amet. Mauris at diam feugiat, sodales purus id, mollis felis. Fusce sodales purus et dolor condimentum viverra. Curabitur fringilla leo consequat est sagittis, sit amet maximus nisi volutpat. Morbi quis nulla pharetra, volutpat turpis nec, scelerisque mauris. Quisque porta elit vel eros dictum condimentum. In imperdiet in velit id cursus. Sed pretium ultrices velit.</p>
+      <h2>Examples</h2>
+      <img class="bioImage" src="../img/jfs_image.jpeg">
+      <p class="bioText"><a href="../index.html">Take me back home...</a></p>
+    </div>
+  </body>
+</html>
+```
+
 ### Demo of collaboration on Github
 
 ### Javascript and p5.js
