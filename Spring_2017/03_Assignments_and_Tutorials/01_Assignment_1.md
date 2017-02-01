@@ -10,6 +10,7 @@ There are many ways of visualizing data and many types of charts and graphs. Som
   * **Types of data** for which the chart or graph is appropriate
   * Brief description of **how to build** the chart or graph (what are the axis, what other elements does it need, what software or tools facilitate the building of this type of chart).
   * **Advantages** and **disadvantages** or this type of graph.
+  * **History** of this type of graph. Who was the first to use it? What other graphs is it related to or did it evolve from?
 * Think carefully about the layout and graphic elements of your site. Start experimenting with fonts, colors and styles. As always, *you should be able to justify every single pixel on your site*.
 
 ### Types of data visualization (charts)
@@ -57,4 +58,4 @@ There are many ways of visualizing data and many types of charts and graphs. Som
 This [Google Doc](https://docs.google.com/spreadsheets/d/1pLz_QoRS_uc5hRy5MbfVBESCAgNswdxa5PJh5rwz5cE/edit?usp=sharing) has the chart assignments. If you would like to swap with someone else, or choose a different chart from the 'Other Charts' category, please email me.
 
 ### Due Date
-* Submit your site's URL to Courseworks before the end of **Thursday, February 9**.
+* Submit your site's URL and a link to your Github repository to Courseworks before the end of **Thursday, February 9**.
