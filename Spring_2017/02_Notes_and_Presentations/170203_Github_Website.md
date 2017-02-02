@@ -1,6 +1,7 @@
 ## Notes 02/03/2017 - Basic Web Concepts and GitHub
 
 ### Plan
+* Group formation: maximum 2 people from the same program. [Sign up list](https://docs.google.com/spreadsheets/d/1yHbPXGRSpNXuUEi2XHSJoHXvb7hhPEbjaIeSmFVvCIc/edit?usp=sharing).
 * Make sure everything is in order (Github and local server)
 * Create a website and test it through a local server
 * Create a 'gh-pages' branch and upload to Github
@@ -10,6 +11,7 @@
 * Start playing with Javascript (basic programming exercises)
 * Console
 * Blog
+* Data visualization as an exploratory tool (for midterm presentation: exploration of a dataset and given that exploration -> thesis and prototype...)
 
 ### Creating a website and testing it with a local server
 * Navigate to folder (new)

@@ -5,7 +5,7 @@ Text description
 Description of deliverables
 
 ### Due Date
-* Submit your site's URL to Courseworks before the end of **Thursday, February 16**.
+* Submit your site's URL and a link to your Github repository to Courseworks before the end of **Thursday, February 16**.
 
 ### Ideas of Data Visualization Projects
 * [Out of Sight, Out of Mind.](http://drones.pitchinteractive.com/)
