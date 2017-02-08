@@ -2,6 +2,7 @@
 
 ### Plan
 * [Tumblr blog](https://dataviz2017spring.tumblr.com/)
+* [Student Developer Pack](https://education.github.com/pack), including a lot of goodies for programming.
 * Go over some of the assignments (data visualization chart).
 * Introduction to Javascript and p5.js
 * Assignment (groups). [Sign up list](https://docs.google.com/spreadsheets/d/1yHbPXGRSpNXuUEi2XHSJoHXvb7hhPEbjaIeSmFVvCIc/edit?usp=sharing).
