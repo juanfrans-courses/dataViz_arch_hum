@@ -16,6 +16,8 @@ Also, think about the project as if it was building or a text:
 #### Deliverables
 Your group should build a stand-alone website that presents, explores and critiques the project. You should provide appropriate links, images and text and make sure the website is easy to understand and use. As always, think carefully about the layout and design of your site (think about making a mock-up in Illustrator before you start coding). In theory, you should be able to justify every single pixel on your site.
 
+**You should be ready give a 5-10 minute presentation of your website/project.**
+
 ### Due Date
 * Submit your site's URL and a link to your Github repository to Courseworks before the end of **Thursday, February 16**.
 
