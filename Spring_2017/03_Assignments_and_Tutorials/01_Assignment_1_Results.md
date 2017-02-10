@@ -20,6 +20,7 @@
 * [Network / Force directed](https://jesfaejohn.github.io/Networkgraph_ForceDirected/assign/NG01.html)
 * [Circle packing](https://majedabdulsamad.github.io/Class3/assignments/assignment_01.html)
 * [Node-Link Tree](https://claradykstra.github.io/HelloWorld/assignments/assignment_01.html)
+* [Pyramid (population)](https://yiiinghuang.github.io/2017springdataviz/assignments/assignment_01.html)
 
 ---
 
@@ -29,7 +30,6 @@
 * Connected dot plot
 * Venn diagram
 * Bar chart / clustered bar / stacked bar
-* Pyramid (population)
 * Gauge
 * Confidence interval
 * Line chart
