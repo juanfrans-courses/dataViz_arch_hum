@@ -21,11 +21,11 @@
 * [Circle packing](https://majedabdulsamad.github.io/Class3/assignments/assignment_01.html)
 * [Node-Link Tree](https://claradykstra.github.io/HelloWorld/assignments/assignment_01.html)
 * [Pyramid (population)](https://yiiinghuang.github.io/2017springdataviz/assignments/assignment_01.html)
+* [Word cloud](https://kq2137.github.io/testRepo/assignments/assignment_01.html)
 
 ---
 
 * Matrix chart / Co-occurrence matrix
-* Word cloud
 * Pictogram
 * Connected dot plot
 * Venn diagram
