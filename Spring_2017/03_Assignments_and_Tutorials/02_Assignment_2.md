@@ -26,7 +26,7 @@ Your group should build a stand-alone website that presents, explores and critiq
 * [U.S. Gun Deaths](http://guns.periscopic.com/?year=2013)
 * [50 Years of College Students](http://www.chronicle.com/interactives/50-years-of-students?cid=gs&utm_source=gs&utm_medium=en&elqTrackId=f3ec8d1de53c48f3a2b5b57c2673af95&elq=bce88f43545745e2b76be075d5f531a2&elqaid=11913&elqat=1&elqCampaignId=4784)
 * [Selfiecity](http://selfiecity.net/#)
-* [The Rhythm of Food](http://rhythm-of-food.net/)
+* [The Rhythm of Food](http://rhythm-of-food.net/) - Taken: Group 5
 * [Seeing Data](http://seeingdata.cleverfranke.com/)
 * [Usian Bolt and the Fastest Men in the World Since 1896 - on the Same Track](https://www.nytimes.com/interactive/2016/08/15/sports/olympics/usain-bolt-and-120-years-of-sprinting-history.html)
 * [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html)
