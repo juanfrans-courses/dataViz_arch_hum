@@ -20,6 +20,9 @@
 * [Network / Force directed](https://jesfaejohn.github.io/Networkgraph_ForceDirected/assign/NG01.html)
 * [Circle packing](https://majedabdulsamad.github.io/Class3/assignments/assignment_01.html)
 * [Node-Link Tree](https://claradykstra.github.io/HelloWorld/assignments/assignment_01.html)
+
+---
+
 * Matrix chart / Co-occurrence matrix
 * Word cloud
 * Pictogram
