@@ -36,7 +36,7 @@ Your group should build a stand-alone website that presents, explores and critiq
 * [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
 * [Why we used jittery gages in our live forecast](http://vis4.net/blog/posts/jittery-gauges-election-forecast/)
 * [How Much Warmer Was Your City in 2016](https://www.nytimes.com/interactive/2017/01/18/world/how-much-warmer-was-your-city-in-2016.html)
-* [Data Sketches](http://www.datasketch.es/)
+* [Data Sketches](http://www.datasketch.es/) - Taken: Group TBD
 * [Visualizing the Evolution of Individual Scientific Impact](http://barabasilab.com/scienceofsuccess/)
 * [The Great Animal Orchestra](http://www.legrandorchestredesanimaux.com/en)
 * [What's Really Warming the World?](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/) - Taken: Group 6
@@ -48,5 +48,5 @@ Your group should build a stand-alone website that presents, explores and critiq
 * [Rock n' Poll](http://rocknpoll.graphics/)
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 * [Every Line in Hamilton](http://polygraph.cool/hamilton/)
-* [On Broadway](http://on-broadway.nyc/) + [Application](http://on-broadway.nyc/app/#)
+* [On Broadway](http://on-broadway.nyc/) + [Application](http://on-broadway.nyc/app/#) - Taken: Group 7
 * [Making it Big](https://pudding.cool/2017/01/making-it-big/)
