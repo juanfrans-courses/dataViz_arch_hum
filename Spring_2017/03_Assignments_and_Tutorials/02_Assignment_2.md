@@ -29,11 +29,11 @@ Your group should build a stand-alone website that presents, explores and critiq
 * [The Rhythm of Food](http://rhythm-of-food.net/) - Taken: Group 5
 * [Seeing Data](http://seeingdata.cleverfranke.com/)
 * [Usian Bolt and the Fastest Men in the World Since 1896 - on the Same Track](https://www.nytimes.com/interactive/2016/08/15/sports/olympics/usain-bolt-and-120-years-of-sprinting-history.html)
-* [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html)
+* [How the Recession Reshaped the Economy, in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html) - Taken: Group 1
 * [On The Origin of the Species](https://fathom.info/traces/)
 * [No Ceilings](http://www.noceilings.org/)
 * [Scaled in Miles](https://fathom.info/miles-web/)
-* [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
+* [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html) - Taken: Group 1
 * [Why we used jittery gages in our live forecast](http://vis4.net/blog/posts/jittery-gauges-election-forecast/)
 * [How Much Warmer Was Your City in 2016](https://www.nytimes.com/interactive/2017/01/18/world/how-much-warmer-was-your-city-in-2016.html)
 * [Data Sketches](http://www.datasketch.es/) - Taken: Group TBD
