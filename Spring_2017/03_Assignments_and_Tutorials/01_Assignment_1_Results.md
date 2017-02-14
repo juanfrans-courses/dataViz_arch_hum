@@ -6,7 +6,7 @@
 * [Heatmap chart](https://webthethird.github.io/testSite/assignments/assignment_01.html)
 * [Slope chart](https://ue2116.github.io/myfirstwebsite/assigments/assignment_01.html)
 * [Histogram](https://carmelo92.github.io/Website_datavis/assignments/assignment_01.html)
-* [Box & Whisker](https://ericywong.github.io/DataViz/pages/assignments/boxandwhisker.html)
+* [Box & Whisker](https://eyw2109.github.io/DataViz/pages/assignments/boxandwhisker.html)
 * [Violin plot](https://andreeaseusan.github.io/Git_DataViz_Website/assignments/assignment_01.html)
 * [Scatter plot / connected scatterplot](https://eduardomontiel.github.io/Test/assignment/assignment_01.html)
 * [Pie chart / Donut chart](https://tolaoniyangi.github.io/DataVis_Assignment1/assignments/assignment1_pages.html#HISTORY)
