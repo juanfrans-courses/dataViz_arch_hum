@@ -26,6 +26,7 @@ This is a short document about how to collaborate in Github.
 
 ### Collaboration Workflow
 The collaboration workflow is pretty simple:
+
 1. Before starting to work you should always do `git fetch` to see if there have been any changes to the remote repository.
 2. After `git-fetch` do `git status`. If it says that your branch is 'behind' you need to do `git pull` to get the changes. Otherwise you can skip the `git pull`.
 3. Work... do awesome stuff...
