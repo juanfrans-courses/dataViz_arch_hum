@@ -22,6 +22,7 @@
 * [Node-Link Tree](https://claradykstra.github.io/HelloWorld/assignments/assignment_01.html)
 * [Pyramid (population)](https://yiiinghuang.github.io/2017springdataviz/assignments/assignment_01.html)
 * [Word cloud](https://kq2137.github.io/testRepo/assignments/assignment_01.html)
+* [Gauge](https://mairakhan.github.io/Week-3/assignments/assignment_01.html)
 
 ---
 
@@ -30,7 +31,6 @@
 * Connected dot plot
 * Venn diagram
 * Bar chart / clustered bar / stacked bar
-* Gauge
 * Confidence interval
 * Line chart
 * Area chart
