@@ -56,8 +56,8 @@ January 27
 * Setup a GitHub projects page
 * Bootstrap
 * Readings due:
-  * *Kirk, Andy, Data Visualization, [Chapter 1 "Defining Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-1_Defining-Data-Visualisation.pdf)*
-  * *Kirk, Andy, Data Visualization, [Chapter 4 "Working With Data"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-4_Working-With-Data.pdf)*
+  * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
+  * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
 
 ### Week 3: Data visualization matrix and basic programming concepts
 February 3
@@ -66,8 +66,8 @@ February 3
 * Console
 * Basic programming exercises
 * Readings due:
-  * *Manovich, Lev, ["What is Data Visualization"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_What-is-Visulaization.pdf)*
-  * *Manovich, Lev, ["Visualization Methods for Media Studies"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Manovich_Visualization_Methods_Media_Studies.pdf)*
+  * *Manovich, Lev, "What is Data Visualization"*
+  * *Manovich, Lev, "Visualization Methods for Media Studies"*
 
 ### Week 4: Introduction to data visualization
 February 10
@@ -78,15 +78,15 @@ February 10
   * Loops
   * Conditionals
 * Reading due:
-  * *Friendly, Michael, [A Brief History of Data Visualization](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Friendly_2007_A_Brief_History_of_Data_Visualization.pdf)*
+  * *Friendly, Michael, A Brief History of Data Visualization*
 * **Assignment 1 Due: [Website with homepage and type of data visualization (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/01_Assignment_1.md)**
 
 ### Week 5: Presentations
 February 17
 * In class presentations
 * Readings due:
-  * *Drucker, Joanna, ["Humanities Approaches to Graphical Display"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Drucker_2010_HumanitiesApproachesToGraphicalDisplay.pdf)*
-  * *Tufte, Edward, ["Graphical Integrity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Graphical-Integrity.pdf)*
+  * *Drucker, Joanna, "Humanities Approaches to Graphical Display"*
+  * *Tufte, Edward, "Graphical Integrity"*
 * **Assignment 2 Due: [Detailed presentation of data visualization project (group)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/02_Assignment_2.md)**
 
 ### Week 6: Contemporary data visualization & advanced programming
@@ -104,8 +104,8 @@ February 24
 March 3
 * APIs and web-scrapping techniques
 * Readings due:
-  * *Kirk, Andy, Data Visualization, [Chapter 11 "Visualization Literacy"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-11_Visualisation-Literacy.pdf)*
-  * *Tufte, Edward, ["Aesthetics and Technique"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Aesthetics-and-Technique.pdf)*
+  * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
+  * *Tufte, Edward, "Aesthetics and Technique"*
 * **Assignment 3 Due: Visualization of one dataset (individual)**
 
 ### Week 8: Guest lecture - Giorgia Lupi
@@ -127,7 +127,7 @@ March 31
 April 7
 * Interactivity concepts and techniques
 * Reading due:
-  * *Kirk, Andy, Data Visualization, [Chapter 7 "Interactivity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Kirk_Chapter-7_Interactivity.pdf)*
+  * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
 * **Assignment 4 Due: Data visualization critique (individual)**
 
 ### Week 13: Generative Art
