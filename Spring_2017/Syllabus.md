@@ -87,7 +87,7 @@ February 17
 * Readings due:
   * *Drucker, Joanna, ["Humanities Approaches to Graphical Display"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Drucker_2010_HumanitiesApproachesToGraphicalDisplay.pdf)*
   * *Tufte, Edward, ["Graphical Integrity"](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/01_Readings/Tufte_Graphical-Integrity.pdf)*
-* **Assignment 2 Due: Detailed presentation of data visualization project (group)**
+* **Assignment 2 Due: [Detailed presentation of data visualization project (group)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/02_Assignment_2.md)**
 
 ### Week 6: Contemporary data visualization & advanced programming
 February 24
