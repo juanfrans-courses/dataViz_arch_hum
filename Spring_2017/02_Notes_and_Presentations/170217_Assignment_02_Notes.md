@@ -36,7 +36,7 @@
 * Was the visualization misleading? If so, does this really matter? Consider the intent and the audience, is there a client? Who's the target audience?
 * Good discussion, although there should have been more analysis on the poetics of the piece and how it relates to the supposedly objectivity of the data.
 
-### Group 5 (Timur Abbiasov, Ying Huang, Carmelo Ignaccolo, Jesfae John) - [The Rhythm of Food by Google News Lab and Truth & Beauty](https://tabbiasov.github.io/Assignment2-RhythmOfFood/)
+### Group 5 (Timur Abbiasov, Ying Huang, Carmelo Ignaccolo, Jesfae John) - [The Rhythm of Food (by Google News Lab and Truth & Beauty)](https://tabbiasov.github.io/Assignment2-RhythmOfFood/)
 * [Github Repository](https://github.com/tabbiasov/Assignment2-RhythmOfFood/tree/gh-pages)
 * Initial animation on user experience is aesthetically exciting, but might consider giving more context at the beginning, or we don't know what we're looking at. Consider putting information (presented on intro page) next to the visualization itself.
 * Analysis of elements on website clear and well done, but more were discussed in the presentation, and would be better to include those elements on website critique as well.
@@ -45,7 +45,7 @@
 * What is the geographic bias? Is there one? This is an important fact and it should be mentioned up front.
 * Conclusion could have been more thorough. Consider less a "good/bad" conclusion, and more an analysis of what the effects, uses, and limits of the visualization could be.
 
-### Group 6 (Matthias Neill, Shahneez Haseeb, Zhengyin Lu, Cesar Eduardo Montiel Olea) - [What's Really Warming The World? by Bloomberg](https://matthiaskn.github.io/Data_Vis_Assignment_2/index.html)
+### Group 6 (Matthias Neill, Shahneez Haseeb, Zhengyin Lu, Cesar Eduardo Montiel Olea) - [What's Really Warming The World? (by Bloomberg)](https://matthiaskn.github.io/Data_Vis_Assignment_2/index.html)
 * [Github Repository](https://github.com/MatthiasKN/Data_Vis_Assignment_2/tree/gh-pages)
 * Presentation of visualization was clear, but could use commentary along with the screenshots of initial visualization (also in the project presentation section).
 * Other groups did this as well, but while the critiques of the weaknesses of the visualization included visual elements, the analysis of the strengths relied on text. Consider how you can use visual arguments to illuminate strengths, positives, or even just describing the visualization.
@@ -55,7 +55,7 @@
 * Good analysis of the scroll progression.
 * Maybe consider a "conclusions" section? Was unclear what your final stance of the visualization was, though the elements were noted at different points.
 
-### Group TBD (Tola Oniyangi, Rachael Dottle, Eric Wong, Clara Dykstra, Andreea Seusan)- [Data Sketches by Nadieh Bremer and Shirley Wu](https://rdottle.github.io/grouptbd-assignment2/)
+### Group TBD (Tola Oniyangi, Rachael Dottle, Eric Wong, Clara Dykstra, Andreea Seusan)- [Data Sketches (by Nadieh Bremer and Shirley Wu)](https://rdottle.github.io/grouptbd-assignment2/)
 * [Github Repository](https://github.com/rdottle/grouptbd-assignment2/tree/gh-pages)
 * Good explanation of the sources and the different approaches by the two authors
 * Gave good critiques of strengths and weakness of each visualization. Though, even if the flowers visualization is lacking in communicating information, could have considered what it did on an affective or emotional level. What does looking at summer movie analyses as flowers communicate about the project? How might this be useful, even if it doesn't help in comparing films so easily?
