@@ -106,7 +106,7 @@ March 3
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
   * *Tufte, Edward, "Aesthetics and Technique"*
-* **Assignment 3 Due: Visualization of one dataset (individual)**
+* **[Assignment 3 Due: Visualization of one dataset (individual)]https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/03_Assignment_3.md)**
 
 ### Week 8: Guest lecture - Giorgia Lupi
 March 10
