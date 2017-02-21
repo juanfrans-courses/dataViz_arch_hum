@@ -110,7 +110,7 @@ March 3
 
 ### Week 8: Guest lecture - Giorgia Lupi
 March 10
-* Guest lecture: Giorgia Lupi from [Accurat](http://www.accurat.it/)
+* Guest lecture: Giorgia Lupi from [Accurat](http://www.accurat.it/) (**Canceled**)
 
 ### Week 9: Spring Break (no class)
 March 17
