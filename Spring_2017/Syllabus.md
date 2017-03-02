@@ -100,16 +100,19 @@ February 24
   * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
 * **Due: Final project proposal (group)**
 
-### Week 7: APIs
+### Week 7: Interactivity
 March 3
+* Interactivity concepts and techniques
+* Reading due:
+  * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
+* **Assignment 3 Due: [Visualization of one dataset (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/03_Assignment_3.md)**
+
+### Week 8: APIs
+March 10
 * APIs and web-scrapping techniques
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
   * *Tufte, Edward, "Aesthetics and Technique"*
-* **Assignment 3 Due: [Visualization of one dataset (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/03_Assignment_3.md)**
-
-### Week 8: Guest lecture - Giorgia Lupi
-March 10
 * Guest lecture: Giorgia Lupi from [Accurat](http://www.accurat.it/) (**Canceled**)
 
 ### Week 9: Spring Break (no class)
@@ -123,16 +126,14 @@ March 31
 * Guest lecture: Michelle McSweeney (working with textual data)
 * Reading due: *TBD*
 
-### Week 12: Interactivity
+### Week 12: Generative Art
 April 7
-* Interactivity concepts and techniques
-* Reading due:
-  * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
+* Readings due: *TBD*
 * **Assignment 4 Due: Data visualization critique (individual)**
 
-### Week 13: Generative Art
+### Week 13: Work in class
 April 14
-* Readings due: *TBD*
+* Work in class
 
 ### Week 14: Work in class
 April 21
