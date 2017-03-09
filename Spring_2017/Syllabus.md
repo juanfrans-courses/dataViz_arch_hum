@@ -107,9 +107,9 @@ March 3
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
 * **Assignment 3 Due: [Visualization of one dataset (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/03_Assignment_3.md)**
 
-### Week 8: APIs
+### Week 8: Interactivity (Part 2)
 March 10
-* APIs and web-scrapping techniques
+* Interactivity concepts and techniques
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
   * *Tufte, Edward, "Aesthetics and Technique"*
@@ -118,22 +118,22 @@ March 10
 ### Week 9: Spring Break (no class)
 March 17
 
-### Week 10: Midterm review
+### Week 10: APIs
 March 24
+* APIs and web-scrapping techniques
 
 ### Week 11: Working with text data
 March 31
 * Guest lecture: Michelle McSweeney (working with textual data)
 * Reading due: *TBD*
 
-### Week 12: Generative Art
+### Week 12: Midterm review
 April 7
-* Readings due: *TBD*
 * **Assignment 4 Due: Data visualization critique (individual)**
 
-### Week 13: Work in class
+### Week 13: Generative Art
 April 14
-* Work in class
+* Readings due: *TBD*
 
 ### Week 14: Work in class
 April 21
@@ -151,7 +151,7 @@ May 5
 * **February 17:** Detailed presentation of data visualization project (group)
 * **February 24:** Final project proposal (group)
 * **March 3:** Visualization of one dataset (individual)
-* **March 24:** Midterm review (group)
+* **April 7:** Midterm review (group)
 * **April 7:** Data visualization critique (individual)
 * **May 5:** Final review
 
