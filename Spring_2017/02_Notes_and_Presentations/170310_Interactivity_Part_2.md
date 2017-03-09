@@ -6,10 +6,9 @@
 * Readings
 * Demo:
   * Recalculate maximum
-  *
-* Mouse x and y
-* Creating buttons
-* Mouse hover
+  * Mouse x and y
+  * Creating buttons
+  * Mouse hover
 
 ### Drawing with data
 #### Previous class code
