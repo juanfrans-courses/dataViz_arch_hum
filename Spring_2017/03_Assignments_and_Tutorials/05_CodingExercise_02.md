@@ -1,5 +1,5 @@
 ### Coding Exercise 2 - Distance
-Try to recreate the following site through a p5.js sketch (or other Javascript libraries).
+Try to recreate the following sketch through a p5.js script (or other Javascript libraries).
 
 ![Distance to Circle](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/img/02_Exercise.gif)
 
