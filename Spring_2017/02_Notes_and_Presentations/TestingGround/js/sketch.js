@@ -1,8 +1,11 @@
 // ***** Global variables ***** //
-var numberSquares = 40;
+var numberCircles = 20;
 var startY = 50;
 var startX = 50;
-var squareLength = 20;
+var circleDiameter = 20;
+var distanceBetween = 40;
+var minD = 5;
+var maxD = 50;
 
 // ***** Setup function ***** //
 function setup(){
@@ -15,11 +18,13 @@ function setup(){
 // ***** Draw function ***** //
 function draw(){
     background(255);
-    noStroke();
-    for (var i = 0; i < numberSquares; i++) {
-      for (var j = 0; j < numberSquares; j++) {
-        fill(map(i, 0, numberSquares, 0, 360), map(j, 0, numberSquares, 0, 100), 100);
-        rect(startX + squareLength * i, startY + squareLength * j, squareLength, squareLength);
+    stroke(0, 0, 25);
+    strokeWeight(1);
+    for (var i = 0; i < numberCircles; i++) {
+      for (var j = 0; j < numberCircles; j++) {
+        var distnaceToCircle = map(dist(startX + distanceBetween * i, startY + distanceBetween * j, mouseX, mouseY), 0, 1000, minD, maxD);
+        fill(0, 0, map(distnaceToCircle, minD, maxD, 0, 100));
+        ellipse(startX + distanceBetween * i, startY + distanceBetween * j, distnaceToCircle, distnaceToCircle);
       }
     }
 }
