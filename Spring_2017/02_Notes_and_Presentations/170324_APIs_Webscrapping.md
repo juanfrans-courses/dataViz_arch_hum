@@ -186,7 +186,7 @@
 ```
 
 ### Loading and working with a JSON file
-* We will use the [`loadJSON`](http://p5js.org/reference/#/p5/loadJSON) function. Because Javascript is asynchronous is important to place this function initially inside the `preload` function.
+* We will use the [`loadJSON`](http://p5js.org/reference/#/p5/loadJSON) function. Because Javascript is asynchronous is important to place this function initially inside the `preload()` function.
 * This tutorial follows Daniel Shiffman's [video tutorials](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r) on how to query APIs with p5.
 ```js
 // ***** Global variables ***** //
@@ -272,7 +272,7 @@ function draw(){
 ```js
 // ***** Global variables ***** //
 var weatherData;
-var apiKey = '6b7f88ea398f85994ccb7cab38d16545';
+var apiKey = 'your api key here';
 var baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=';
 var city = 'Sydney';
 var units = 'metric';
@@ -321,14 +321,18 @@ function draw(){
 * First, let's modify the HTML to create the actual input.
 * It is very important to add the p5.dom.js library to the sketch, to be able to query HTML elements.
 ```html
-<script language="javascript" type="text/javascript" src="../libraries/addons/p5.dom.js"></script>
-<p>Query the OpenWeatherMap API for: <input id="city" value="New York"></input><button id="submit">Query</button></p>
+<head>
+  <script language="javascript" type="text/javascript" src="../libraries/addons/p5.dom.js"></script>
+</head>
+<body>
+  <p>Query the OpenWeatherMap API for: <input id="city" value="New York"></input><button id="submit">Query</button></p>
+</body>
 ```
 * Now, let's link those html elements to our p5 sketch:
 ```js
 // ***** Global variables ***** //
 var weatherData;
-var apiKey = '6b7f88ea398f85994ccb7cab38d16545';
+var apiKey = 'your api key here';
 var baseURL = 'http://api.openweathermap.org/data/2.5/weather?q=';
 var city = 'Sydney';
 var units = 'metric';
