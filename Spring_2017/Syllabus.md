@@ -127,13 +127,13 @@ March 31
 * Guest lecture: Michelle McSweeney (working with textual data)
 * Reading due: *TBD*
 
-### Week 12: Midterm review
+### Week 12: Generative Art
 April 7
-* **Assignment 4 Due: Data visualization critique (individual)**
-
-### Week 13: Generative Art
-April 14
 * Readings due: *TBD*
+
+### Week 13: 3/4 review
+April 14
+* **Assignment 4 Due: Data visualization critique (individual)**
 
 ### Week 14: Work in class
 April 21
@@ -151,8 +151,8 @@ May 5
 * **February 17:** Detailed presentation of data visualization project (group)
 * **February 24:** Final project proposal (group)
 * **March 3:** Visualization of one dataset (individual)
-* **April 7:** Midterm review (group)
-* **April 7:** Data visualization critique (individual)
+* **April 14:** Midterm review (group)
+* **April 14:** Data visualization critique (individual)
 * **May 5:** Final review
 
 ## References
