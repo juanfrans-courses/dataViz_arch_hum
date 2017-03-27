@@ -125,7 +125,11 @@ March 24
 ### Week 11: Working with text data
 March 31
 * Guest lecture: Michelle McSweeney (working with textual data)
-* Reading due: *TBD*
+* Reading due:
+  * *Blei, D. M. (2013). Topic Modeling and Digital Humanities. Journal of Digital Humanities, 2(1).*
+  * *Gitelman, L. (2013). “Raw data” is an oxymoron. Cambridge, Massachusetts: The MIT Press.*
+  * *Michel, J.-B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Team, T. G. B., … Aiden, E. L. (2011). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176–182.*
+  * *Schulz, K. (2011, June 24). The Mechanic Muse - What Is Distant Reading? The New York Times.*
 
 ### Week 12: Generative Art
 April 7
