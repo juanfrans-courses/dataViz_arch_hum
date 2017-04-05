@@ -1,4 +1,4 @@
-## Notes 03/124/2017 - APIs and Webscrapping
+## Notes 03/24/2017 - APIs and Webscrapping
 
 ### Plan
 * [Tumblr blog](https://dataviz2017spring.tumblr.com/)
