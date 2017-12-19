@@ -24,9 +24,8 @@ The course will be centered around a semester long data visualization group proj
 
 ## Evaluation and Grading
 * 10% Class participation and discussion
-* 20% Individual assignments and homework
-* 15% Midterm presentation
-* 20% Data visualization critique
+* 30% Individual assignments
+* 25% Data visualization critique
 * 35% Final project and final presentation
 
 ## Resources and Materials
@@ -37,127 +36,128 @@ The readings for the class will be duly uploaded to this repository. Students wi
 [Link to the blog](https://dataviz2017spring.tumblr.com/)
 
 ## Schedule
-### Week 1: Introduction to course and setup
+### Week 1: Introduction and setup
 January 19
 * Course administration and syllabus
 * Overview of the course
 * Assignments and final project
 * Resources
-* Why data visualization (discussion)
-* Basic infrastructure (stack)
-* Introduction to HTML and CSS
+* Why, what and how of data visualization (discussion)
+* Web stack, software and languages
+* Introduction to HTML, CSS and the Terminal (Command Line)
 * Setup of local server
 
-### Week 2: Basic web concepts and GitHub
+### Week 2: Creating a website: basic web concepts, Github, and versioning control
 January 26
-* Discussion: what is data in your field
-* Version control basics
-* Setup a GitHub repository
-* Setup a GitHub projects page
-* Bootstrap
+* Github as hosting
+* Git as versioning control system
+* Bootstrap and CSS templates* Version control basics
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
   * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
+* **Assignment 1 due:** [Hello World! and personal website sketch](add link to assignment here)
 
-### Week 3: Data visualization matrix and basic programming concepts
+### Week 3: Programming: variables, loops, conditionals, and functions
 February 2
-* Introduction to p5.js
-* Introduction to JavaScript
-* Console
-* Basic programming exercises
+* Introduction to Javascript
+* Variables, loops, conditionals, and functions
 * Readings due:
   * *Manovich, Lev, "What is Data Visualization"*
   * *Manovich, Lev, "Visualization Methods for Media Studies"*
+* **Assignment 2 due:** [Create your own website](add link to assignment here)
 
-### Week 4: Introduction to data visualization
+### Week 4: Drawing
 February 9
-* Data visualization history, examples and theory
-* Minard, Snow, Nightingale, Bertin, Tufte
-* Programming exercises:
-  * Variables
-  * Loops
-  * Conditionals
+* Introduction to p5.js
 * Reading due:
   * *Friendly, Michael, A Brief History of Data Visualization*
-* **Assignment 1 Due: [Website with homepage and type of data visualization (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/01_Assignment_1.md)**
+* **Assignment 3 due:** [Single data visualization](add link to assignment here)
 
-### Week 5: Presentations
+### Week 5: Data and drawing with data
 February 16
-* In class presentations
+* Loading data
+* Drawing with data (basic charts and graphs)
 * Readings due:
   * *Drucker, Joanna, "Humanities Approaches to Graphical Display"*
   * *Tufte, Edward, "Graphical Integrity"*
-* **Assignment 2 Due: [Detailed presentation of data visualization project (group)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/02_Assignment_2.md)**
+* **Assignment 4 due:** [Color matrix and bubbles](add link to assignment here)
 
-### Week 6: Contemporary data visualization & advanced programming
+### Week 6: Interactivity
 February 23
-* Contemporary concepts and examples of data visualization
-* Basic data analysis concepts and techniques
-* Programming exercises:
-  * Functions
-  * Objects
+* Buttons and hovering
 * Reading due:
   * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
-* **Due: Final project proposal (group)**
+  * *Baur, Dominikus, ["The death of interactive infographics?"](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb)*
+  * *Aisch, Gregor ["In Defense of Interactive Graphics"](https://www.vis4.net/blog/2017/03/in-defense-of-interactive-graphics/)*
+* **Assignment 5 due:** [2 graphs - same dataset](add link to assignment here)
 
-### Week 7: Interactivity
+### Week 7: Interactivity and APIs
 March 2
-* Interactivity concepts and techniques
+* User input
+* APIs
+* JSON
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
-* **Assignment 3 Due: [Visualization of one dataset (individual)](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/03_Assignment_3.md)**
+* **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
 
-### Week 8: Interactivity (Part 2)
+### Week 8: Working with text data
 March 9
-* Interactivity concepts and techniques
-* Readings due:
-  * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
-  * *Tufte, Edward, "Aesthetics and Technique"*
-* Guest lecture: Giorgia Lupi from [Accurat](http://www.accurat.it/) (**Canceled**)
-
-### Week 9: Spring Break (no class)
-March 16
-
-### Week 10: APIs
-March 23
-* APIs and web-scrapping techniques
-
-### Week 11: Working with text data
-March 30
 * Guest lecture: Michelle McSweeney (working with textual data)
 * Reading due:
   * *Blei, D. M. (2013). Topic Modeling and Digital Humanities. Journal of Digital Humanities, 2(1).*
   * *Gitelman, L. (2013). “Raw data” is an oxymoron. Cambridge, Massachusetts: The MIT Press.*
   * *Michel, J.-B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Team, T. G. B., … Aiden, E. L. (2011). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176–182.*
   * *Schulz, K. (2011, June 24). The Mechanic Muse - What Is Distant Reading? The New York Times.*
+* **Assignment 7 due:** [Weather app](add link to assignment here)
 
-### Week 12: Generative Art
+### Week 9: Spring Break (no class)
+March 16
+
+### Week 10: Generative art
+March 23
+* Objects
+* Generative behavior with data
+* Readings due:
+  * **Add reading about generative art**
+* **Assignment 8 due:** [Data visualization critique](add link to assignment here)
+
+### Week 11: Dataset desk crits
+March 30
+* Readings due:
+  * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
+  * *Tufte, Edward, "Aesthetics and Technique"*
+* **Group assignment 1 due:** [Groups and dataset](add link to assignment here)
+
+### Week 12: Exploratory data visualization desk crits
 April 6
-* Readings due: *TBD*
+* **Group assignment 2 due:** [Exploratory data visualization](add link to assignment here)
 
-### Week 13: 3/4 review
+### Week 13: Sketches and main idea desk crits
 April 13
-* **Assignment 4 Due: Data visualization critique (individual)**
+* **Group assignment 3 due:** [Sketches and main idea](add link to assignment here)
 
-### Week 14: Work in class
+### Week 14: Working prototype desk crits
 April 20
-* Work in class
+* **Group assignment 4 due:** [Working prototype](add link to assignment here)
 
-### Week 15: Work in class
+### Week 15: Final review
 April 27
-* Work in class
-
-### Week 16: Final review
-May 4
+* **Group assignment 5 due:** [Final site and documentation](add link to assignment here)
 
 ### Assignment Schedule (Due Dates)
-* **February 9:** Website with homepage and type of data visualization (individual)
-* **February 16:** Detailed presentation of data visualization project (group)
-* **February 23:** Final project proposal (group)
-* **March 2:** Visualization of one dataset (individual)
-* **April 13:** Midterm review (group)
-* **April 13:** Data visualization critique (individual)
-* **May 4:** Final review
+* **January 26**: Assignment 1 - [Hello World! and personal website sketch](add link to assignment here)
+* **February 2**: Assignment 2 - [Create your own website](add link to assignment here)
+* **February 9**: Assignment 3 due - [Single data visualization](add link to assignment here)
+* **February 16**: Assignment 4 due - [Color matrix and bubbles](add link to assignment here)
+* **February 23**: Assignment 5 due - [2 graphs - same dataset](add link to assignment here)
+* **March 2**: Assignment 6 due - [Add interactivity to your graphs](add link to assignment here)
+* **March 9**: Assignment 7 due - [Weather app](add link to assignment here)
+* **March 23**: Assignment 8 due - [Data visualization critique](add link to assignment here)
+* **March 30**: Group assignment 1 due - [Groups and dataset](add link to assignment here)
+* **April 6**: Group assignment 2 due - [Exploratory data visualization](add link to assignment here)
+* **April 13**: Group assignment 3 due - [Sketches and main idea](add link to assignment here)
+* **April 20**: Group assignment 4 due - [Working prototype](add link to assignment here)
+* **April 27**: Group assignment 5 due - [Final site and documentation](add link to assignment here)
 
 ## References
 ### Books
@@ -165,7 +165,6 @@ May 4
   * *Data Flow: Visualizing Information in Graphic Design*
   * *Data Flow 2: Visualizing Information in Graphic Design*
   * *Data Points*, Nathan Yau
-  * *Atlas of Shrinking Cities*, Beyer Elke
   * *Visualizing Information for Advocacy*, Tactical Technology Creative
   * *Design for Information*, Isabel Meirelles
   * *Semiology of Graphics*, Jacques Bertin
@@ -189,36 +188,30 @@ May 4
 * Typography:
   * *Thinking With Type*, Ellen Lupton
 
-### Blogs & Websites
+### Reference Blogs & Websites
 * [Visualizing Data](http://www.visualisingdata.com/)
 * [Flowingdata](http://flowingdata.com)
 * [Periscopic](http://periscopic.com)
-* [Visualizing.org](http://visualizing.org)
 * [Accurat](http://accurat.it)
 * [Moritz Stefaner](http://truth-and-beauty.net/)
 * [Nocholas Felton](http://feltron.com)
-* [Infosthetics](http://infosthetics.com)
+* [The Functional Art](http://www.thefunctionalart.com/)
 * [Visualcomplexity](http://visualcomplexity.com)
+* [The r/dataisbeautiful subreddit](https://www.reddit.com/r/dataisbeautiful/)
 * [The Economist - Graphic Detail](http://www.economist.com/blogs/graphicdetail)
+* [The New York Times’ interactives](https://www.nytimes.com/interactive/2016/12/28/us/year-in-interactive-graphics.html)
 * [New York Times - The Upshot](http://www.nytimes.com/upshot/)
 * [Visualoop](http://visualoop.com/)
-* [FiveThirtyEight](https://fivethirtyeight.com/datalab/our-33-weirdest-charts-from-2014/)
-* [Huffington Post](http://www.huffingtonpost.com/2014/12/22/huffpost-infographics-201_n_6351828.html)
-* [LA Times](http://graphics.latimes.com/2014-in-graphics/)
+* [FiveThirtyEight](https://fivethirtyeight.com/features/the-52-best-and-weirdest-charts-we-made-in-2016/)
+* [LA Times](http://www.latimes.com/visuals/graphics/)
 * [Wall Street Journal](http://graphics.wsj.com/wsj-interactives-2014/)
-* [Washington Post](https://www.washingtonpost.com/graphics/national/2014-in-graphics/)
+* [Washington Post](https://twitter.com/PostGraphics)
 * [Quartz](http://qz.com/318339/all-of-the-charts-we-made-in-2014/)
-* [New York Times - Interactive Storytelling](http://www.nytimes.com/interactive/2014/12/29/us/year-in-interactive-storytelling.html?_r=0#data-visualization)
+* [The Guardian's interactives](https://www.theguardian.com/interactive)
 * [Fathom](http://fathom.info/)
 * [Data Canvas](http://map.datacanvas.org/#)
-* [Waze Global Driver Satisfaction Index](http://blog.waze.com/2015/09/global-driver-satisfaction-index.html)
-* [Lapham's Quaterly Maps](http://www.laphamsquarterly.org/archive/maps)
 * [Lapham's Quaterly Charts and Graphs](http://www.laphamsquarterly.org/archive/charts-graphs)
-* [Territory](http://themapisnot.com/)
-* [Quartz Atlas Charts](https://www.theatlas.com/)
-* [Sensory Maps](http://sensorymaps.com/)
-* [Library of Congress - Maps](https://www.loc.gov/maps/collections/)
-* [The National Geologic Map Database](http://ngmdb.usgs.gov/ngmdb/ngmdb_home.html)
+* [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
 
 ### Podcasts:
 * [Data Stories](http://datastori.es/)
@@ -226,7 +219,9 @@ May 4
 
 ### Tools
 * Text editors:
+  * [Atom](https://atom.io/)
   * [SublimeText](https://www.sublimetext.com/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
   * [TextWrangler](http://www.barebones.com/products/TextWrangler/)
 * Python IDEs:
   * [SublimeText](https://www.sublimetext.com/)
@@ -241,6 +236,7 @@ May 4
   * [Adobe Color CC](https://color.adobe.com)
   * [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
   * [Color Picker for Data](http://tristen.ca/hcl-picker/#/hlc/6/1/15534C/E2E062)
+  * [Carto](https://carto.com/carto-colors/)
 * Visualization toolkits:
   * [D3](https://d3js.org/) - a JavaScript library for manipulating documents based on data.
   * [Vega](https://vega.github.io/vega/) - a declarative format for creating, saving, and sharing interactive visualization designs.
