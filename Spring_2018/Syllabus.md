@@ -98,6 +98,7 @@ March 2
 * JSON
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
+  * *Ford, Paul, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)*
 * **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
 
 ### Week 8: Working with text data
@@ -118,14 +119,13 @@ March 23
 * Objects
 * Generative behavior with data
 * Readings due:
+  * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
+  * *Tufte, Edward, "Aesthetics and Technique"*
   * **Add reading about generative art**
 * **Assignment 8 due:** [Data visualization critique](add link to assignment here)
 
 ### Week 11: Dataset desk crits
 March 30
-* Readings due:
-  * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
-  * *Tufte, Edward, "Aesthetics and Technique"*
 * **Group assignment 1 due:** [Groups and dataset](add link to assignment here)
 
 ### Week 12: Exploratory data visualization desk crits
