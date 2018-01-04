@@ -212,6 +212,7 @@ April 27
 * [Data Canvas](http://map.datacanvas.org/#)
 * [Lapham's Quaterly Charts and Graphs](http://www.laphamsquarterly.org/archive/charts-graphs)
 * [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
+* [The list of 2017 visualization lists](http://www.maartenlambrechts.com/2017/12/28/the-list-of-2017-visualization-lists.html)
 
 ### Podcasts:
 * [Data Stories](http://datastori.es/)
