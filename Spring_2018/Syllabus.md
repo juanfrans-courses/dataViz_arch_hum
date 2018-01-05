@@ -55,7 +55,7 @@ January 26
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
   * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
-* **Assignment 1 due:** [Hello World! and personal website sketch](02_Assignments/01_HelloWorld_Assignment.md)
+* **Assignment 1 due:** [Hello World! and website sketch](02_Assignments/01_HelloWorld_Assignment.md)
 
 ### Week 3: Programming: variables, loops, conditionals, and functions
 February 2
