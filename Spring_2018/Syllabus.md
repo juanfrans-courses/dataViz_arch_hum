@@ -2,10 +2,9 @@
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2018
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: Buck Wanner (brw2103)
+* Teaching Assistant: TBD
 * Office hours:
   * Juan: TBD (previous email required)
-  * Buck: TBD (previous email required)
 
 ## Course Overview
 This course provides an introduction to data visualization theory and methods for students entirely new to the fields of computation and information design. Through a series of in-class exercises and take-home assignments, students will learn how to critically engage and produce interactive data visualization pieces that can serve as exploratory and analytical tools. The course is part of a larger initiative, hosted by the [Center for Spatial Research](http://c4sr.columbia.edu/) to teach courses in the critical use of digital tools across fields in architecture, urbanism, and the humanities.
