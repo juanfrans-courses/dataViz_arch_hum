@@ -64,7 +64,7 @@ February 2
 * Readings due:
   * *Manovich, Lev, "What is Data Visualization"*
   * *Manovich, Lev, "Visualization Methods for Media Studies"*
-* **Assignment 2 due:** [Create your own website](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2018/02_Assignments/02_YourOwnSite_Assignment.md)
+* **Assignment 2 due:** [Create your own website](02_Assignments/02_YourOwnSite_Assignment.md)
 
 ### Week 4: Drawing
 February 9
