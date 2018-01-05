@@ -55,7 +55,7 @@ January 26
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
   * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
-* **Assignment 1 due:** [Hello World! and personal website sketch](add link to assignment here)
+* **Assignment 1 due:** [Hello World! and personal website sketch](02_Assignments/01_HelloWorld_Assignment.md)
 
 ### Week 3: Programming: variables, loops, conditionals, and functions
 February 2
@@ -64,7 +64,7 @@ February 2
 * Readings due:
   * *Manovich, Lev, "What is Data Visualization"*
   * *Manovich, Lev, "Visualization Methods for Media Studies"*
-* **Assignment 2 due:** [Create your own website](add link to assignment here)
+* **Assignment 2 due:** [Create your own website](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2018/02_Assignments/02_YourOwnSite_Assignment.md)
 
 ### Week 4: Drawing
 February 9
