@@ -101,40 +101,40 @@ March 2
   * *Ford, Paul, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)*
 * **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
 
-### Week 8: Working with text data
+### Week 8: Generative art
 March 9
-* Guest lecture: Michelle McSweeney (working with textual data)
-* Reading due:
-  * *Blei, D. M. (2013). Topic Modeling and Digital Humanities. Journal of Digital Humanities, 2(1).*
-  * *Gitelman, L. (2013). “Raw data” is an oxymoron. Cambridge, Massachusetts: The MIT Press.*
-  * *Michel, J.-B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Team, T. G. B., … Aiden, E. L. (2011). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176–182.*
-  * *Schulz, K. (2011, June 24). The Mechanic Muse - What Is Distant Reading? The New York Times.*
-* **Assignment 7 due:** [Weather app](add link to assignment here)
-
-### Week 9: Spring Break (no class)
-March 16
-
-### Week 10: Generative art
-March 23
 * Objects
 * Generative behavior with data
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
   * *Tufte, Edward, "Aesthetics and Technique"*
   * **Add reading about generative art**
-* **Assignment 8 due:** [Data visualization critique](add link to assignment here)
+* **Assignment 7 due:** [Weather app](add link to assignment here)
 
-### Week 11: Dataset desk crits
-March 30
+### Week 9: Spring Break (no class)
+March 16
+
+### Week 10: Dataset desk crits
+March 23
+* **Assignment 8 due:** [Data visualization critique](add link to assignment here)
 * **Group assignment 1 due:** [Groups and dataset](add link to assignment here)
 
-### Week 12: Exploratory data visualization desk crits
-April 6
+### Week 11: Exploratory data visualization desk crits
+March 30
 * **Group assignment 2 due:** [Exploratory data visualization](add link to assignment here)
 
-### Week 13: Sketches and main idea desk crits
-April 13
+### Week 12: Sketches and main idea desk crits
+April 6
 * **Group assignment 3 due:** [Sketches and main idea](add link to assignment here)
+
+### Week 13: Working with text data
+April 13
+* Guest lecture: Michelle McSweeney (working with textual data)
+* Reading due:
+  * *Blei, D. M. (2013). Topic Modeling and Digital Humanities. Journal of Digital Humanities, 2(1).*
+  * *Gitelman, L. (2013). “Raw data” is an oxymoron. Cambridge, Massachusetts: The MIT Press.*
+  * *Michel, J.-B., Shen, Y. K., Aiden, A. P., Veres, A., Gray, M. K., Team, T. G. B., … Aiden, E. L. (2011). Quantitative Analysis of Culture Using Millions of Digitized Books. Science, 331(6014), 176–182.*
+  * *Schulz, K. (2011, June 24). The Mechanic Muse - What Is Distant Reading? The New York Times.*
 
 ### Week 14: Working prototype desk crits
 April 20
@@ -153,9 +153,9 @@ April 27
 * **March 2**: Assignment 6 due - [Add interactivity to your graphs](add link to assignment here)
 * **March 9**: Assignment 7 due - [Weather app](add link to assignment here)
 * **March 23**: Assignment 8 due - [Data visualization critique](add link to assignment here)
-* **March 30**: Group assignment 1 due - [Groups and dataset](add link to assignment here)
-* **April 6**: Group assignment 2 due - [Exploratory data visualization](add link to assignment here)
-* **April 13**: Group assignment 3 due - [Sketches and main idea](add link to assignment here)
+* **March 23**: Group assignment 1 due - [Groups and dataset](add link to assignment here)
+* **April 30**: Group assignment 2 due - [Exploratory data visualization](add link to assignment here)
+* **April 6**: Group assignment 3 due - [Sketches and main idea](add link to assignment here)
 * **April 20**: Group assignment 4 due - [Working prototype](add link to assignment here)
 * **April 27**: Group assignment 5 due - [Final site and documentation](add link to assignment here)
 
