@@ -125,10 +125,17 @@ March 23
 ### Week 11: Exploratory data visualization desk crits
 March 30
 * **Group assignment 2 due:** [Exploratory data visualization](add link to assignment here)
+* Readings due:
+  * *Lima, Manuel, [Information Visualization Manifesto](http://www.visualcomplexity.com/vc/blog/?p=644) (make sure you read the comments)*
+  * *Kosara, Robert, [The Visualization Cargo Cult](https://eagereyes.org/criticism/the-visualization-cargo-cult)*
+  * *Rost, Lisa Charlotte, [The Line Between Data Vis and Data Art](https://lisacharlotterost.github.io/2015/12/14/The-Line-between-Data-Vis-And-Data-Art/)*
+  * *Stefaner, Moritz, [Little Boxes](http://well-formed-data.net/archives/1210/little-boxes#more-1210)*
 
 ### Week 12: Sketches and main idea desk crits
 April 6
 * **Group assignment 3 due:** [Sketches and main idea](add link to assignment here)
+* Readings due:
+  * *Stefaner, Moritz, [Worlds, not stories](http://well-formed-data.net/archives/1027/worlds-not-stories)*
 
 ### Week 13: Working with text data
 April 13
