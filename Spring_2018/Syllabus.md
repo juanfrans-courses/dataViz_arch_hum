@@ -45,12 +45,14 @@ January 19
 * Web stack, software and languages
 * Introduction to HTML, CSS and the Terminal (Command Line)
 * Setup of local server
+* Anscombe quartet and [other](https://www.autodeskresearch.com/publications/samestats)
 
 ### Week 2: Creating a website: basic web concepts, Github, and versioning control
 January 26
 * Github as hosting
 * Git as versioning control system
-* Bootstrap and CSS templates* Version control basics
+* Bootstrap and CSS templates
+* Version control basics
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
   * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
@@ -70,6 +72,7 @@ February 9
 * Introduction to p5.js
 * Reading due:
   * *Friendly, Michael, A Brief History of Data Visualization*
+  * *Müller, Boris, ["Picture, Depiction and Deception: Why Data Visualisations are Cultural Images"](https://medium.com/@borism/picture-depiction-and-deception-why-data-visualisations-are-cultural-images-cd462893ef32)*
 * **Assignment 3 due:** [Single data visualization](add link to assignment here)
 
 ### Week 5: Data and drawing with data
@@ -97,6 +100,7 @@ March 2
 * JSON
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
+  * *Lupi, Giorgia, ["Data Humanism, the Revolution with be Visualized"](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)*
   * *Ford, Paul, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)*
 * **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
 
@@ -212,6 +216,7 @@ April 27
 * [Lapham's Quaterly Charts and Graphs](http://www.laphamsquarterly.org/archive/charts-graphs)
 * [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/)
 * [The list of 2017 visualization lists](http://www.maartenlambrechts.com/2017/12/28/the-list-of-2017-visualization-lists.html)
+* [Uncharted - A Blog by Datawrapper](https://blog.datawrapper.de/)
 
 ### Podcasts:
 * [Data Stories](http://datastori.es/)
@@ -267,6 +272,7 @@ April 27
   * [JavaScript: the right way](http://jstherightway.org/)
   * [Code School: JavaScript](https://www.codeschool.com/learn/javascript)
   * [JavaScript garden](https://bonsaiden.github.io/JavaScript-Garden/)
+  * [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
   * [Mozilla Developer Network: A re-introduction to JavaScript(JS tutorila)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
   * [Codecademy: JavaScript](https://www.codecademy.com/lrn/javascript)
 * Debugging:
