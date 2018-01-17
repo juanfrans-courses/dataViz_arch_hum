@@ -28,11 +28,11 @@ The course will be centered around a semester long data visualization group proj
 * 35% Final project and final presentation
 
 ## Resources and Materials
-Course files, tutorials and presentations will be located on Courseworks, on the [Center for Spatial Research](http://c4sr.columbia.edu/) website and on this repository.
+Course files, tutorials and presentations will be located on this repository, and unless otherwise noted, the readings for the class will be posted on Coursworks. Students will be required to submit their assignments by uploading them to Courseworks.
 
-The readings for the class will be duly uploaded to this repository. Students will be required to submit their assignments by uploading them to Courseworks. Finally, the class will also rely heavily on submissions to the blog. Students will be required to upload some of their own work as well as inspirational material, encouraging and developing a critical stance and visual skills.
+Finally, the class will also rely heavily on submissions to the blog. Students will be required to upload inspirational material at least once per week, encouraging and developing a critical stance and visual skills.
 
-[Link to the blog](https://dataviz2017spring.tumblr.com/)
+[Link to the blog](https://dataviz2018spring.tumblr.com/)
 
 ## Schedule
 ### Week 1: Introduction and setup
@@ -54,8 +54,11 @@ January 26
 * Bootstrap and CSS templates
 * Version control basics
 * Readings due:
+  * *Casey Reas, Form + Code, Chapter 1 [What is Code?](https://ebookcentral.proquest.com/lib/columbia/reader.action?docID=3387346&ppg=10)*
   * *Kirk, Andy, Data Visualization, Chapter 1 "Defining Data Visualization"*
   * *Kirk, Andy, Data Visualization, Chapter 4 "Working With Data"*
+* Supplemental reading:
+  * *Ford, Paul, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)*
 * **Assignment 1 due:** [Hello World! and website sketch](02_Assignments/01_HelloWorld_Assignment.md)
 
 ### Week 3: Programming: variables, loops, conditionals, and functions
@@ -101,7 +104,6 @@ March 2
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
   * *Lupi, Giorgia, ["Data Humanism, the Revolution with be Visualized"](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)*
-  * *Ford, Paul, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)*
 * **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
 
 ### Week 8: Generative art
@@ -130,6 +132,8 @@ March 30
   * *Kosara, Robert, [The Visualization Cargo Cult](https://eagereyes.org/criticism/the-visualization-cargo-cult)*
   * *Rost, Lisa Charlotte, [The Line Between Data Vis and Data Art](https://lisacharlotterost.github.io/2015/12/14/The-Line-between-Data-Vis-And-Data-Art/)*
   * *Stefaner, Moritz, [Little Boxes](http://well-formed-data.net/archives/1210/little-boxes#more-1210)*
+* Supplemental reading:
+  * *Vande Moere, A., Purchase, H., [On the role of design in information visualization](http://infoscape.org/publications/ivs12.pdf)
 
 ### Week 12: Sketches and main idea desk crits
 April 6
