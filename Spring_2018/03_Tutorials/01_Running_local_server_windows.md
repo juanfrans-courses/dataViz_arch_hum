@@ -23,7 +23,7 @@ As we will be using GitBash as the Mac terminal equivalent, it might be possible
 
 Secondly, we will need to install Python.
 For this class we will be using **Python 3.6**
-* Go to the [Python] (https://www.python.org/) homepage.
+* Go to the [Python](https://www.python.org/) homepage.
 * Find **Download** and click on the version you want.
 * Go to the bottom of the page and select **Windows x86 executable installer**
 * Download the .exe file and run it.
