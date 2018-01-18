@@ -8,13 +8,12 @@ Firstly, you will need to install Git.
   * **Git**: "Git is an open-source version control system. Think of it a series of snapshots of your code."
   * **GitHub**: "GitHub is a web-page on which you can publish and share your repositories."
   * Other differences: Git works locally, on your own computer. In contrast to other backup systems like Time Machine, Git allows you to see changes and track your process. Also, if you don't "push" (upload) your repository and the changes to GitHub, Git won't function as a backup.
-* **GitBash**: a program that lets you interact with Git and your computer in a similar way as the Terminal application on Apple computers
+  * **GitBash**: a program that lets you interact with Git and your computer in a similar way as the Terminal application on Apple computers
+
 You can download it from the [Git SCM website.](https://git-scm.com/download)
 Download the .exe file for windows and follow the installation instructions choosing the default options except for the following cases:
 * When you get to the **Adjusting your PATH environment** screen choose the option for **Use Git Bash Only**
-* On the third window, choose **"Use Git from the Windows Command Prompt"**.
-* On the fourth, choose **"Checkout Windows-style, commit Unix-style line endings"**.
-* On the fifth, choose **"Use Windows' default console window"**.
+* When you get to configuring the terminal emulator to use Git Bash, choose **"Use Windows' default console window"**.
 
 Now you should be able to open GitBash, it should be on your windows Start Menu, with your other programs.
 As we will be using GitBash as the Mac terminal equivalent, it might be possible that other tutorials or class explanations refer to GitBash as 'Terminal'.  
