@@ -2,7 +2,7 @@
 * Columbia University | GSAPP and A&S | ARCHA4892 | Spring 2018
 * Fridays 9am - 11am | Ware Lounge (600 Avery)
 * Professor: Juan Francisco Saldarriaga (jfs2118)
-* Teaching Assistant: TBD
+* Teaching Assistant: Quy Le (qtl2000)
 * Office hours:
   * Juan: TBD (previous email required)
 
