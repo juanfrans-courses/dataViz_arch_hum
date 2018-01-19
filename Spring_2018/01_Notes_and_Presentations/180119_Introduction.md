@@ -1,6 +1,6 @@
 ## Notes Week 1 (1/19/18) - Introduction
 
-### Introduction to the class
+#### Introduction to the class
 * What this class is:
   * Data visualization
   * Beginners:
@@ -20,7 +20,7 @@
   * Readings / blog / discussion / tutorials / assignments / final group project
   * 10 hours of work per week
 
-### Components
+#### Components
 * **Your computers**:
   * Testing ground
   * localhost
@@ -44,9 +44,9 @@
 * **Text editor**:
   * The recommended text editor is [Atom](https://atom.io/), although [Sublime Text](https://www.sublimetext.com/) is also a good option.
 
-### Syllabus
+#### Syllabus
 
-### What this class is not
+#### What this class is not
 * Mapping:
   * I will not talk about maps
   * I will not teach how to make maps
@@ -57,13 +57,13 @@
 * Mobile
 * Stats (although we do expect you to treat data carefully and thoughtfully).
 
-### Applications
+#### Applications
 * Name
 * Program
 * Year (semester)
 * Why you would like to take this class (one paragraph)
 
-### Basic infrastructure (the stack)
+#### Basic infrastructure (the stack)
 * Server:
   * Local: you own computer, for your own browser
   * Remote: Github, for the whole web
@@ -83,7 +83,7 @@
 * Developer tools:
   * Instpector
 
-### HTML (Hyper Text Markup Language)
+#### HTML (Hyper Text Markup Language)
 * Basic HTML structure:
   ```html
   <!DOCTYPE html>
@@ -128,7 +128,7 @@
     * `<footer></footer>`: contains the footer information for the page.
 * There are many more elements. For a full list of elements see the [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) guide by the Mozilla Developer Network.
 
-### What is CSS (Cascading Style Sheets)
+#### What is CSS (Cascading Style Sheets)
 * Usually you link the .css file in the `<head></head>` of the html document through `<link rel="stylesheet" type="text/css" href="style.css">`. However, you can also use css in the main .html file.
 * The basic idea behind CSS is that you style specific elements of the html document (ie. `<p></p>`, `<h1></h1>`, etc, etc). By style we mean, color, font, font size, background color, letter spacing, etc, etc.
 * In CSS you can also differentiate between elements using the `class` and `id` tags.
