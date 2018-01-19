@@ -143,13 +143,13 @@ p{
 }
 ```
 * But if we want to style just one type of `<p></p>` element, first we would add a `class` or an `id` tag to the element and then style it like this:
-  * HTML:
+* HTML:
 ```html
 <p>This is the generic text element with the default styling.</p>
 <p class="boldText">This is one element we will style with BOLD text.</p>
 <p id="italicsText">This is the other element we will style with ITALICS text.</p>
 ```
-  * CSS:
+* CSS:
 ```css
 p{
   color: #000000;
