@@ -1,0 +1,20 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #FF5AA8;
+}
+
+p#description {
+  color: blue;
+  text-align: center;
+}
+
+/* p {
+  color: #000000;
+  font-family: 'Roboto', sans-serif;;
+  font-size: 1.35em;
+  font-weight: 300;
+  max-width: 900px;
+} */
