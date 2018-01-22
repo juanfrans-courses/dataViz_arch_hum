@@ -1,4 +1,4 @@
-## Tutorial 01 - Installing Git and Running a Local Server
+## Tutorial 01 - Running a Local Server (and Installing Python and GitBash)
 
 ### Create Your `.html` and `.css` Files
 * The first thing you need to do is to create a folder for your website. Inside this folder you will place all the files associated with your site.
