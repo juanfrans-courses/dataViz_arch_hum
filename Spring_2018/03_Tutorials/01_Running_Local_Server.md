@@ -80,6 +80,7 @@ Now both Windows and Mac computers can use Python to run a local server.
   * You can use `cd <path/to/folder>` to change folders (replacing `<path/to/folder>` with the path and the name of the folder you want to go to).
     * *Note that if your folder name or your file name contains a space you might get an error. For example, in most cases you would need to navigate to a folder called `data visualization course` like this: `cd data\ visualization\ course`. The crucial thing to note here is the backslash which is necessary for the Terminal to understand the space as a character and not as a separation in the commands. Once you've encountered this problem a few times you will probably start naming your files and folders using a "camelCase" notation (`dataVisualizationCourse`) or underscores (`data_visualization_course`).*
   * And you can use `cd ..` to move up one level.
+  * You can also use the `Tab` key to autocomplete commands or names of files or folders. Start typing one of these and press `Tab` to complete the rest.
   * For other Terminal or GitBash commands, see the [final section](#terminal-or-gitbash-commands) of this tutorial.
 * Once you are in your website folder, type the following command to start your local server:
   * For Python 2.7.x: `python -m SimpleHTTPServer`
@@ -194,6 +195,7 @@ p#italicsText {
 * `touch <fileName.extension>` - Creates a new file.
 * `rm <fileName>`: Remove file. **Careful, this command permanently deletes the specified file**. If you want to remove a directory and its contents do `rm -ri <folderName>`. This will remove recursively and ask for a confirmation for every file (`-i`).
 * `.` - the dot means here (in this location). Commonly used when you want to move or copy a file from another directory to your current one.
+* You can also use the `Tab` key to autocomplete commands or names of files or folders. Start typing one of these and press `Tab` to complete the rest.
 * Here are some navigation shortcuts in the Terminal:
   * 'ctrl+A' - moves to start of line.
   * 'ctrl+E' - moves to end of line.
