@@ -78,11 +78,12 @@ Now both Windows and Mac computers can use Python to run a local server.
   * You can use `pwd` to show your current location.
   * You can use `ls` to display the contents of the current folder.
   * You can use `cd <path/to/folder>` to change folders (replacing `<path/to/folder>` with the path and the name of the folder you want to go to).
+    * *Note that if your folder name or your file name contains a space you might get an error. For example, in most cases you would need to navigate to a folder called `data visualization course` like this: `cd data\ visualization\ course`. The crucial thing to note here is the backslash (\) which is necessary for the Terminal to understand the space as a character and not as a separation in the commands. Once you've encountered this problem a few times you will probably start naming your files and folders using a "camelCase" notation (`dataVisualizationCourse`) or underscores (`data_visualization_course`).*
   * And you can use `cd ..` to move up one level.
   * For other Terminal or GitBash commands, see the [final section](#terminal-or-gitbash-commands) of this tutorial.
 * Once you are in your website folder, type the following command to start your local server:
   * For Python 2.7.x: `python -m SimpleHTTPServer`
-  * For Python 3.6.x: `python3 -m http.server`
+  * For Python 3.6.x: `python3 -m http.server` or `python -m http.server`
 * Once your local server start open a new tab on your internet browser and go to: `http://localhost:8000`
 * 8000 is the default location, but if you want to run the server in a different port you can do `python -m SimpleHTTPServer 4000` which will run the local server in the 4000 port. In your browser you should then go to `http://localhost:4000/`.
 * In your browser you should be able to see the result of your `index.html` file, styled by your `style.css` file.
@@ -175,6 +176,7 @@ p#italicsText {
 
 ### Terminal or GitBash Commands
 * `cd <path/to/folder>` - Change directory. Used to move to another folder in your computer.
+  * *Note that if your folder name or your file name contains a space you might get an error. For example, in most cases you would need to navigate to a folder called `data visualization course` like this: `cd data\ visualization\ course`. The crucial thing to note here is the backslash (\) which is necessary for the Terminal to understand the space as a character and not as a separation in the commands. Once you've encountered this problem a few times you will probably start naming your files and folders using a "camelCase" notation (`dataVisualizationCourse`) or underscores (`data_visualization_course`).*
 * `cd ~` - Change directory to home folder.
 * `cd -` - Change directory to previous directory.
 * `cd ..`- Go back one folder in the directory
