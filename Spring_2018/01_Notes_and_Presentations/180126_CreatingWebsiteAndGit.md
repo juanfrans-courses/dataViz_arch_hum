@@ -1,5 +1,6 @@
 # Notes Week 2 (January 26, 2018) - Creating a Website and Git Basics
 * Collect assignment
+* Atom [live server](https://atom.io/packages/atom-live-server) package
 
 ## Discussion - What and Why Data Visualization
 * Blog
@@ -31,9 +32,74 @@
 
   * Get mean of x, mean of y, sample variance of x, sample variance of y, correlation between x and y, linear regression line, and coefficient of determination of the linear regression.
   * [Datasaurus](https://www.autodeskresearch.com/publications/samestats)
+* [Napoleon's march to Russia](https://cartographia.files.wordpress.com/2008/05/minard_napoleon.png)
+* [Challenger scatterplot](https://people.rit.edu/wlrgsh/FINRobison.pdf)
 * Readings:
-  * *Defining data visualization*
+  * *Defining data visualization*:
+    * "The presentation and representation of data to facilitate understanding":
+      * **Data**: many many kinds and formats of data, and many many sources, including, creating one's own.
+        * Through a table we can see the data but we cannot easily **compare values** and **establish relationships**.
+      * **Representation** through marks and attributes.
+      * **Presentation**: all other visible design decisions: interactivity, features of annotation, color, composition, etc.
+      * **Facilitating understanding** (but is this all?)
+    * Importance of the **audience**:
+      * What do they know?
+      * What is important to them?
+      * What do they need to know in order for them to *understand* the chart?
+    * What do we want to achieve with the visualization?
+    * Principles of design:
+      * Good design is **innovative**
+      * Good design makes a product **useful**
+      * Good design is **aesthetic**
+      * Good design makes a product **understandable**
+      * Good design is **unobtrusive**
+      * Good design is **honest**
+      * Good design is **long tasting**
+      * Good design is **thorough** down to the last detail
+      * Good design is **environmentally friendly**
+      * Good design is **as little design as possible**
+    * **Truth**:
+      * Never mislead
+      * But there is rarely a singular view of truth
+      * [Gun deaths in Florida](http://www.businessinsider.com/gun-deaths-in-florida-increased-with-stand-your-ground-2014-2) vs. [Iraq's Bloody Toll](http://www.scmp.com/infographics/article/1284683/iraqs-bloody-toll)
+      * Share as much relevant information (data and how you handled it):
+        * How it was collected
+        * What calculations were applied to it
+        * Assumptions?
+        * Removed or excluded any data?
+        * How representative is it?
+      * **Hidden biases** in the collection and analysis process are a big problem.
+      * ie. Truncating y-axis
+    * **Accessible**:
+      * Minimum friction
+      * Clarity trumps simplicity
+    * **Elegant**:
+      * Eliminate the arbitrary ("every pixel should be justifiable")
+      * Decoration should be additive, not negative. ie. [Asia looses its sweet tooth for chocolate](https://www.wsj.com/articles/asia-loses-its-sweet-tooth-for-chocolate-1431281818)
+      * Minimalism?
   * *Working with Data*
+    * **Data types**:
+      * Qualitative and quantitative
+      * **Textual** (qualitative) -> requires a lot of work for cleaning and extraction of meaning
+      * **Nominal** (qualitative) or **categorical**: ie. gender, region, state, language:
+        * Careful, sometimes nominal data is encoded with numbers. Be careful not to apply any mathematical operations to this kind of data, as that would be inconsistent with its type.
+      * **Ordinal** (qualitative): still categorical but there is a clear order between the values. Although the exact distance between them is not clearly defined. ie. rankings
+        * Same warning as above
+      * **Interval** (quantitative): difference on a scale but not by relative scale. In this scale you can have zero values, which indicate a value, not an absence of... ie. Celsius or Fahrenheit
+      * **Ratio** (quantitative): numeric measurements that have properties of difference and scale. Zero means something.
+      * **Time**: it comes in many formats
+    * **Statistical methods**:
+      * Frequency counts (categorical)
+      * Frequency distributions (quantitative)
+      * Central tendency:
+        * Mean
+        * Median
+        * Mode
+      * Spread:
+        * Maximum, minimum and range
+        * Percentiles
+        * Standard deviation: measures dispersion. It is the square root of the variance (which is the sum of the square of deviations), over the number of observations minus 1. On a normal distribution, 68.2% of the observations will be within one standard deviation of the mean. 95% will be within two and 99.7% within 3.
+    * **Representative**?
   * *What is Code*:
     * What is code?
     * Code as a structure
