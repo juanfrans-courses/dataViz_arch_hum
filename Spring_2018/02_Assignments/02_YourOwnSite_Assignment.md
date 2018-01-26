@@ -13,4 +13,4 @@ Now that you have a pretty well developed sketch for your class site, go ahead a
     * This should be a template page, just so you think about how you will display your assignments and the navigation links to take you back to the other pages.
 
 #### Due date
-Your link should be submitted via Courseworks before the end of **Thursday, February 2**.
+Your link should be submitted via Courseworks before the end of **Thursday, February 1**.
