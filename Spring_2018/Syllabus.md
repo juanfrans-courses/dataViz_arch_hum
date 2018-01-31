@@ -90,6 +90,7 @@ February 16
 ### Week 6: Interactivity
 February 23
 * Buttons and hovering
+* Presentation by Rachel Dottle from [FiveThirtyEight](http://fivethirtyeight.com/)
 * Reading due:
   * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
   * *Baur, Dominikus, ["The death of interactive infographics?"](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb)*
