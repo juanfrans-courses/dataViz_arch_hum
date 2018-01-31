@@ -14,3 +14,10 @@ alert(completeName);
 var myNames = ['Juan', 'Francisco', 'Saldarriaga'];
 var fullName = myNames.join(' ');
 console.log(fullName);
+
+function myFunction(x1, x2, x3){
+  var x4 = x1 * x2 * x3;
+  return x4;
+}
+
+console.log(myFunction(1,4,5));
