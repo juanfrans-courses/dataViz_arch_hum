@@ -3,6 +3,7 @@
 * Assignment - Websites
 * [The New York Times - The Follower Factory](https://www.nytimes.com/interactive/2018/01/27/technology/social-media-bots.html)
 * [Student Developer Pack](https://education.github.com/pack), including a lot of goodies for programming.
+* [Github desktop application](https://desktop.github.com/)
 
 ## Discussion - Readings
 * *What is Visualization?*:
