@@ -102,6 +102,7 @@ March 2
 * User input
 * APIs
 * JSON
+* Presentation by data artist [Emily Fuhrman](http://emilyfuhrman.co/)
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
   * *Lupi, Giorgia, ["Data Humanism, the Revolution with be Visualized"](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)*
