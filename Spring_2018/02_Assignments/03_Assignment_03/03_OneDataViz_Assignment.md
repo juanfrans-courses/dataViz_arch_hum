@@ -4,7 +4,7 @@ For this assignment you will need to create a **single** data visualization piec
 #### Dataset
 The data you will visualize is the PLUTO dataset for Manhattan, which contains data on every single lot in the borough. [Here](https://www1.nyc.gov/assets/planning/download/pdf/data-maps/open-data/pluto_datadictionary.pdf?r=16v2) you will find the data dictionary with a description of every variable. This is an extremely rich and complex dataset so make sure you explore it carefully and read the documentation.
 
-You can find the data files [here](). I've broken them down by neighborhood and the codes for the neighborhoods (in the name of the file) are [here](). You can choose to visualize one or multiple neighborhoods, or the whole borough.
+You can find the data files [here](https://github.com/juanfrans-courses/dataViz_arch_hum/tree/master/Spring_2018/02_Assignments/03_Assignment_03). I've broken them down by neighborhood and the codes for the neighborhoods (in the name of the file) are [here](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2018/02_Assignments/03_Assignment_03/NeighborhoodCodes.csv). You can choose to visualize one or multiple neighborhoods, or the whole borough. The files are `.txt` files and are `tab` delimited. You should be able to open them with Excel, Google Sheets or even Atom or Sublime (although I don't recommend these two for this task).
 
 Feel free to transform the data, summarize it, filter it or extract meaningful statistics. You don't need to visualize the whole dataset or every single record (you can if you want, but you don't need to), but you do need to think about what story you are trying to tell.
 

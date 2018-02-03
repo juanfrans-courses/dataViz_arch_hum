@@ -76,7 +76,7 @@ February 9
 * Reading due:
   * *Friendly, Michael, A Brief History of Data Visualization*
   * *Müller, Boris, ["Picture, Depiction and Deception: Why Data Visualisations are Cultural Images"](https://medium.com/@borism/picture-depiction-and-deception-why-data-visualisations-are-cultural-images-cd462893ef32)*
-* **Assignment 3 due:** [Single data visualization](add link to assignment here)
+* **Assignment 3 due:** [Single data visualization](02_Assignments/03_Assignment_03/03_OneDataViz_Assignment.md)
 
 ### Week 5: Data and drawing with data
 February 16
