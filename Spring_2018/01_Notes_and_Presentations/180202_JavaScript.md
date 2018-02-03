@@ -148,22 +148,3 @@ while (i < 10){
 * Global vs. Local
 * [Semicolon](http://inimino.org/~inimino/blog/javascript_semicolons)
 * Suggestion **clear cache with developer tools (network)**.
-
-## Drawing with p5.js
-* First example:
-```js
-function setup(){
-  createCanvas(800, 800);
-  console.log('Setup complete...')
-}
-
-function draw(){
-  if (mouseIsPressed){
-    fill(0);
-  }
-  else {
-    fill(255);
-  }
-  ellipse(mouseX, mouseY, 50, 50);
-}
-```
