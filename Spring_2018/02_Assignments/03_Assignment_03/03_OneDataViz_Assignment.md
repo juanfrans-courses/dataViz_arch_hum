@@ -12,6 +12,7 @@ Feel free to transform the data, summarize it, filter it or extract meaningful s
 Make sure you check out these chart galleries before you choose your method of visualization. Explore them and think about what type of chart best fits what you are trying to display.
 * [DataVizProject](http://datavizproject.com/)
 * [Visualization Universe](http://visualizationuniverse.com/charts/)
+* [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
 
 #### Method
 Choose any method you like. Hand sketch, Excel graph, Illustrator, d3.js, whatever you like. However, your visualization needs to be professional and fully finished. Again, you should be able to justify every design decision and every pixel on the page.
