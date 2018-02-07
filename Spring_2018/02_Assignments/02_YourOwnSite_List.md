@@ -1,0 +1,21 @@
+### Assignment 2 - Your Own Site - Results
+Here is the list of sites for the class. Make sure you take a look at them and learn from each other.
+
+* [Jack Bai](https://yangpire.github.io/Jack-Bai-Website/#)
+* [Oskar Garcia Guerrero](https://og2236.github.io/dataviz/)
+* [Faisha Indrakesuma](https://fa1sha.github.io/dataVizClassSite/week2/index.html)
+* [Deeksha Kalra](https://deeksha13kalra.github.io/dataVizClassSite/#)
+* [Georgia Kromrei](https://kromreig.github.io/DataViz_ArchUrbHum/index.html)
+* [Ruoran Lin](https://kkkddder.github.io/RLDataViz/home.html)
+* [Angel Lope Zamora](https://aflopez314.github.io/DataVizSite/index.html)
+* [Eric Pietraszkiewicz](https://eptrszkwcz.github.io/index.html)
+* [Paul Provenza](https://paulpro90.github.io/datavizclassSite/datawebsite/#)
+* [Ke Ren](https://kemostal.github.io/dataVizClassSite/)
+* [Dolly Setton](https://drs22col.github.io/WebFolder/)
+* [Sanghyun Son](https://data-space-design.github.io/data-viz/)
+* [Mai Uchida](https://maiu.github.io/dataVizClassSite/)
+* [Cynthia Wang](https://clw2163.github.io/dataVizClassSite/index.html)
+* [Kate Wang](https://yolobaby.github.io/gh-pages/index.html)
+* [Qianyu Xiang](https://kiraxiang.github.io/dataVizClassSite/index.html)
+* [Jialin Zhai](https://jialinzhai.github.io/GIt_to_prepare/)
+* [Jiacheng Zhou](https://trailblazercj03.github.io/DataVizSite/)
