@@ -85,7 +85,7 @@ February 16
 * Readings due:
   * *Drucker, Joanna, "Humanities Approaches to Graphical Display"*
   * *Tufte, Edward, "Graphical Integrity"*
-* **Assignment 4 due:** [Color matrix and bubbles](add link to assignment here)
+* **Assignment 4 due:** [Color matrix and bubbles](02_Assignments/04_ColorsMatrix_Assignment.md)
 
 ### Week 6: Interactivity
 February 23
