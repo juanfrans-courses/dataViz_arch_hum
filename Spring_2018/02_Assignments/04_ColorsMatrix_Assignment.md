@@ -1,7 +1,7 @@
 ### Assignment 4 - Coding Exercises - Colors and Distance
 The assignment for this week is to use p5.js to recreate the following two sketches.
 
-#### Colors
+### Colors
 ![Loop in a loop](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/img/01_Exercise.png)
 
 #### Hint
@@ -9,7 +9,7 @@ The assignment for this week is to use p5.js to recreate the following two sketc
 * For the color, you might want to change the "color mode" to HSB instead of the default RGB.
 * Feel free to check the [reference page](https://p5js.org/reference/) on the p5.js site for more help.
 
-#### Bubbles
+### Bubbles
 ![Distance to Circle](https://github.com/juanfrans-courses/dataViz_arch_hum/blob/master/Spring_2017/03_Assignments_and_Tutorials/img/02_Exercise.gif)
 
 #### Hint
