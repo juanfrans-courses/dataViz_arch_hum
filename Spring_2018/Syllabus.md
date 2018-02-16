@@ -95,7 +95,7 @@ February 23
   * *Viegas, Fernanda, Wattenberg, Martin, ["Design and Redesign in Data Visualization"](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9#.mha4ohu1t)*
   * *Baur, Dominikus, ["The death of interactive infographics?"](https://medium.com/@dominikus/the-end-of-interactive-visualizations-52c585dcafcb)*
   * *Aisch, Gregor ["In Defense of Interactive Graphics"](https://www.vis4.net/blog/2017/03/in-defense-of-interactive-graphics/)*
-* **Assignment 5 due:** [2 graphs - same dataset](add link to assignment here)
+* **Assignment 5 due:** [Visualizing with p5.js](02_Assignments/05_TranslatingToP5_Assignment.md)
 
 ### Week 7: Interactivity and APIs
 March 2
