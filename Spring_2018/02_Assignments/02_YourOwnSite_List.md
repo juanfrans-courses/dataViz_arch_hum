@@ -3,7 +3,7 @@ Here is the list of sites for the class. Make sure you take a look at them and l
 
 * [Jack Bai](https://yangpire.github.io/Jack-Bai-Website/#)
 * [Oskar Garcia Guerrero](https://og2236.github.io/dataviz/)
-* [Faisha Indrakesuma](https://fa1sha.github.io/dataVizClassSite/week2/index.html)
+* [Faisha Indrakesuma](https://fa1sha.github.io/dataViz/index.html)
 * [Deeksha Kalra](https://deeksha13kalra.github.io/dataVizClassSite/#)
 * [Georgia Kromrei](https://kromreig.github.io/DataViz_ArchUrbHum/index.html)
 * [Ruoran Lin](https://kkkddder.github.io/RLDataViz/home.html)
