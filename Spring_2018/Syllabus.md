@@ -106,7 +106,7 @@ March 2
 * Reading due:
   * *Kirk, Andy, Data Visualization, Chapter 7 "Interactivity"*
   * *Lupi, Giorgia, ["Data Humanism, the Revolution with be Visualized"](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb)*
-* **Assignment 6 due:** [Add interactivity to your graphs](add link to assignment here)
+* **Assignment 6 due:** [Add interactivity to your visualization](02_Assignments/06_AddingInteractivity_Assignment.md)
 
 ### Week 8: Generative art
 March 9
