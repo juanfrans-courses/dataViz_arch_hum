@@ -1,94 +1,47 @@
-var circleSize = 50;
+// ***** Global variables ***** //
+var nervousBall = []; // Declaring the Array of objects
+var blackWhole;
 
+// ***** Setup function ***** //
 function setup(){
-	createCanvas(500,500);
-	var i = 0;
-	while (i < 100){
-		print(i);
-		i++;
-	}
+  createCanvas(800, 800);
+  colorMode(HSB, 360, 100, 100, 100);
+  for (var i = 0; i < 50; i++) {
+    nervousBall.push(new Jitter()); // Create the objects
+  }
 }
 
+// ***** Draw function ***** //
 function draw(){
-	// background(0, 100, 100);
-	if (mouseIsPressed){
-		fill(255);
-	}
-	else {
-		fill(0);
-	}
-	stroke(200, 0, 50);
-	strokeWeight(1);
-	ellipse(mouseX, mouseY, circleSize, circleSize);
+  background(255);
+  for (var i = 0; i < nervousBall.length; i++) {
+    nervousBall[i].update();
+    nervousBall[i].display();
+  }
 }
 
+// ***** Jitter class ******* //
+function Jitter() {
+  // Initial properties
+  this.position = createVector(random(100, width - 100), random(100, height - 100));
+  this.diameter = random(10, 50);
+  this.maxVelocity = 10;
+  this.velocity = createVector(random(-this.maxVelocity, this.maxVelocity),random(-this.maxVelocity, this.maxVelocity));
+  this.fill = random(0, 360);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// // ***** Global variables ***** //
-// var refugeeTable;
-// var maxTotal = 0;
-// var maxLabel = 0;
-// var maxLength = 550;
-
-// // ***** Preload function ***** //
-// function preload(){
-// 	refugeeTable = loadTable('../data/RefugeesUNHCR.csv', 'csv', 'header');
-// 	console.log('Done loading table...');
-// }
-
-// // ***** Setup function ***** //
-// function setup(){
-// 	createCanvas(800, 3000);
-// 	textSize(12);
-// 	console.log('Setup complete...');
-// 	print(refugeeTable.getRowCount() + ' rows loaded...');
-// 	print(refugeeTable.getColumnCount() + ' columns loaded...');
-// 	for (var i = 0; i < refugeeTable.getRowCount(); i++) {
-// 		maxTotal = max(refugeeTable.getNum(i, 'Total'), maxTotal);
-// 		maxLabel = max(refugeeTable.getString(i, 'Country').length, maxLabel);
-// 	}
-// 	print('Maximum total is ' + maxTotal);
-// 	print('Maximum label length is ' + maxLabel);
-// }
-
-// // ***** Draw function ***** //
-// function draw(){
-// 	background(255);
-// 	fill(0);
-// 	noStroke();
-// 	textAlign(LEFT, TOP);
-// 	for (var i = 0; i < refugeeTable.getRowCount(); i++) {
-// 		var total = refugeeTable.getNum(i, 'Total');
-// 		var length = map(total, 0, maxTotal, 0, maxLength);
-// 		rect(maxLabel * 5, 2 + 14*i, length, 12);
-// 		text(total.toLocaleString('en-US', {minimumFractionDigits: 0}), maxLabel * 5 + length + 5, 14*i);
-// 	}
-// 	textAlign(RIGHT, TOP);
-// 	for (var i = 0; i < refugeeTable.getRowCount(); i++) {
-// 		text(refugeeTable.getString(i, 'Country'), maxLabel * 5 - 5, 14*i);
-// 	}
-// }
+  // Function
+  this.display = function(){
+    stroke(1);
+    fill(this.fill, 100, 100, 75);
+    ellipse(this.position.x, this.position.y, this.diameter, this.diameter);
+  }
+  this.update = function(){
+    if ((this.position.x + this.diameter/2) > width || (this.position.x - this.diameter/2) < 0){
+      this.velocity.x = this.velocity.x * -1;
+    }
+    if ((this.position.y + this.diameter/2) > height || (this.position.y - this.diameter/2) < 0){
+      this.velocity.y = this.velocity.y * -1;
+    }
+    this.position.add(this.velocity);
+  }
+}
