@@ -115,19 +115,18 @@ March 9
 * Readings due:
   * *Kirk, Andy, Data Visualization, Chapter 11 "Visualization Literacy"*
   * *Tufte, Edward, "Aesthetics and Technique"*
-  * **Add reading about generative art**
-* **Assignment 7 due:** [Weather app](add link to assignment here)
 
 ### Week 9: Spring Break (no class)
 March 16
 
 ### Week 10: Dataset desk crits
 March 23
-* **Assignment 8 due:** [Data visualization critique](add link to assignment here)
+* **Assignment 8 due:** [Data visualization critique](02_Assignments/08_DataVizCritique_Assignment.md)
 * **Group assignment 1 due:** [Groups and dataset](add link to assignment here)
 
 ### Week 11: Exploratory data visualization desk crits
 March 30
+* **Assignment 7 due:** [Weather app](02_Assignments/07_WeatherApp_Assignment.md)
 * **Group assignment 2 due:** [Exploratory data visualization](add link to assignment here)
 * Readings due:
   * *Lima, Manuel, [Information Visualization Manifesto](http://www.visualcomplexity.com/vc/blog/?p=644) (make sure you read the comments)*
@@ -161,16 +160,16 @@ April 27
 * **Group assignment 5 due:** [Final site and documentation](add link to assignment here)
 
 ### Assignment Schedule (Due Dates)
-* **January 26**: Assignment 1 - [Hello World! and personal website sketch](add link to assignment here)
-* **February 1**: Assignment 2 - [Create your own website](add link to assignment here)
-* **February 8**: Assignment 3 due - [Single data visualization](add link to assignment here)
-* **February 15**: Assignment 4 due - [Color matrix and bubbles](add link to assignment here)
-* **February 22**: Assignment 5 due - [2 graphs - same dataset](add link to assignment here)
-* **March 1**: Assignment 6 due - [Add interactivity to your graphs](add link to assignment here)
-* **March 8**: Assignment 7 due - [Weather app](add link to assignment here)
-* **March 23**: Assignment 8 due - [Data visualization critique](add link to assignment here)
+* **January 26**: Assignment 1 - [Hello World! and personal website sketch](02_Assignments/01_HelloWorld_Assignment.md)
+* **February 1**: Assignment 2 - [Create your own website](02_Assignments/02_YourOwnSite_Assignment.md)
+* **February 8**: Assignment 3 due - [Single data visualization](02_Assignments/03_Assignment_03/03_OneDataViz_Assignment.md)
+* **February 15**: Assignment 4 due - [Color matrix and bubbles](02_Assignments/04_ColorsMatrix_Assignment.md)
+* **February 22**: Assignment 5 due - [2 graphs - same dataset](02_Assignments/05_TranslatingToP5_Assignment.md)
+* **March 1**: Assignment 6 due - [Add interactivity to your graphs](02_Assignments/06_AddingInteractivity_Assignment.md)
+* **March 23**: Assignment 8 due - [Data visualization critique](02_Assignments/08_DataVizCritique_Assignment.md)
 * **March 23**: Group assignment 1 due - [Groups and dataset](add link to assignment here)
-* **April 30**: Group assignment 2 due - [Exploratory data visualization](add link to assignment here)
+* **March 29**: Assignment 7 due - [Weather app](02_Assignments/07_WeatherApp_Assignment.md)
+* **March 30**: Group assignment 2 due - [Exploratory data visualization](add link to assignment here)
 * **April 6**: Group assignment 3 due - [Sketches and main idea](add link to assignment here)
 * **April 20**: Group assignment 4 due - [Working prototype](add link to assignment here)
 * **April 27**: Group assignment 5 due - [Final site and documentation](add link to assignment here)
