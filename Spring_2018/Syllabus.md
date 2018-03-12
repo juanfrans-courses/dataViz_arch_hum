@@ -134,7 +134,7 @@ March 30
   * *Rost, Lisa Charlotte, [The Line Between Data Vis and Data Art](https://lisacharlotterost.github.io/2015/12/14/The-Line-between-Data-Vis-And-Data-Art/)*
   * *Stefaner, Moritz, [Little Boxes](http://well-formed-data.net/archives/1210/little-boxes#more-1210)*
 * Supplemental reading:
-  * *Vande Moere, A., Purchase, H., [On the role of design in information visualization](http://infoscape.org/publications/ivs12.pdf)
+  * *Vande Moere, A., Purchase, H., [On the role of design in information visualization](http://infoscape.org/publications/ivs12.pdf)*
 
 ### Week 12: Sketches and main idea desk crits
 April 6
