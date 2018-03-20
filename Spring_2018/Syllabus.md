@@ -317,3 +317,5 @@ April 27
 * [NYPL Labs Menus](http://menus.nypl.org/data)
 * [NYPL Digital Collections](http://digitalcollections.nypl.org/)
 * [The Data Visualisation Catalogue](www.datavizcatalogue.com)
+* [UN Urban Agglomerations Data](https://esa.un.org/unpd/wup/CD-ROM/)
+* [World Bank Indicators](https://data.worldbank.org/indicator?tab=all)
