@@ -5,6 +5,7 @@ Data visualization pieces can be built for different purposes:
 * To persuade or to make a point, as explanatory pieces.
 * To allow the user to explore a dataset and get to their own conclusions
 * Or as a combination of these two.
+
 You need to choose which one of these you will develop, or how to combine both. The purpose of your data visualization should be very clear to you, and every element on your website should work towards this goal.
 
 ## Deliverables
