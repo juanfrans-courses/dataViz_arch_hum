@@ -4,7 +4,7 @@
 * **Generative art**: Generative art refers to art that in whole or in part has been created with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist (Wikipedia).
 * **Generative systems**:
   * Cellular Automata:
-    * [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life))
+    * [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
     * [Live Google Version](https://www.google.com/search?q=conway%27s+game+of+life&rlz=1C5CHFA_enUS727US727&oq=conway&aqs=chrome.2.69i57j69i60j0l4.2905j0j1&sourceid=chrome&ie=UTF-8)
   * [Boids](https://en.wikipedia.org/wiki/Boids) (Craig Raynolds flocking algorithms):
     * p5.js examples:
