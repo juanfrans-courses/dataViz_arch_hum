@@ -11,7 +11,7 @@ Here is the list of sites for the class. Make sure you take a look at them and l
 * [Eric Pietraszkiewicz](https://eptrszkwcz.github.io/index.html)
 * [Paul Provenza](https://paulpro90.github.io/datavizclassSite/datawebsite/#)
 * [Ke Ren](https://kemostal.github.io/dataVizClassSite/)
-* [Dolly Setton](https://drs22col.github.io/WebFolder/)
+* [Dolly Setton](https://drs22col.github.io/DataVizWebsite/)
 * [Sanghyun Son](https://data-space-design.github.io/data-viz/)
 * [Mai Uchida](https://maiu.github.io/dataVizClassSite/)
 * [Cynthia Wang](https://clw2163.github.io/dataVizClassSite/index.html)
